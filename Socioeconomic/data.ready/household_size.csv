@@ -1,0 +1,1460 @@
+"","state","year","household_mean","household_error"
+"1","Alabama",1990,2.49,NA
+"2","Alaska",1990,2.74,NA
+"3","Arizona",1990,2.64,NA
+"4","Arkansas",1990,2.49,NA
+"5","California",1990,2.87,NA
+"6","Colorado",1990,2.53,NA
+"7","Connecticut",1990,2.53,NA
+"8","Delaware",1990,2.54,NA
+"9","District of Columbia",1990,2.16,NA
+"10","Florida",1990,2.46,NA
+"11","Georgia",1990,2.65,NA
+"12","Hawaii",1990,2.92,NA
+"13","Idaho",1990,2.69,NA
+"14","Illinois",1990,2.63,NA
+"15","Indiana",1990,2.53,NA
+"16","Iowa",1990,2.46,NA
+"17","Kansas",1990,2.51,NA
+"18","Kentucky",1990,2.47,NA
+"19","Louisiana",1990,2.62,NA
+"20","Maine",1990,2.39,NA
+"21","Maryland",1990,2.61,NA
+"22","Massachusetts",1990,2.51,NA
+"23","Michigan",1990,2.56,NA
+"24","Minnesota",1990,2.52,NA
+"25","Mississippi",1990,2.63,NA
+"26","Missouri",1990,2.48,NA
+"27","Montana",1990,2.45,NA
+"28","Nebraska",1990,2.49,NA
+"29","Nevada",1990,2.62,NA
+"30","New Hampshire",1990,2.53,NA
+"31","New Jersey",1990,2.68,NA
+"32","New Mexico",1990,2.63,NA
+"33","New York",1990,2.61,NA
+"34","North Carolina",1990,2.49,NA
+"35","North Dakota",1990,2.41,NA
+"36","Ohio",1990,2.49,NA
+"37","Oklahoma",1990,2.49,NA
+"38","Oregon",1990,2.51,NA
+"39","Pennsylvania",1990,2.48,NA
+"40","Rhode Island",1990,2.47,NA
+"41","South Carolina",1990,2.53,NA
+"42","South Dakota",1990,2.5,NA
+"43","Tennessee",1990,2.48,NA
+"44","Texas",1990,2.74,NA
+"45","Utah",1990,3.13,NA
+"46","Vermont",1990,2.44,NA
+"47","Virginia",1990,2.54,NA
+"48","Washington",1990,2.53,NA
+"49","West Virginia",1990,2.4,NA
+"50","Wisconsin",1990,2.5,NA
+"51","Wyoming",1990,2.48,NA
+"1.1","Alabama",1991,2.49,NA
+"2.1","Alaska",1991,2.74,NA
+"3.1","Arizona",1991,2.64,NA
+"4.1","Arkansas",1991,2.49,NA
+"5.1","California",1991,2.87,NA
+"6.1","Colorado",1991,2.53,NA
+"7.1","Connecticut",1991,2.53,NA
+"8.1","Delaware",1991,2.54,NA
+"9.1","District of Columbia",1991,2.16,NA
+"10.1","Florida",1991,2.46,NA
+"11.1","Georgia",1991,2.65,NA
+"12.1","Hawaii",1991,2.92,NA
+"13.1","Idaho",1991,2.69,NA
+"14.1","Illinois",1991,2.63,NA
+"15.1","Indiana",1991,2.53,NA
+"16.1","Iowa",1991,2.46,NA
+"17.1","Kansas",1991,2.51,NA
+"18.1","Kentucky",1991,2.47,NA
+"19.1","Louisiana",1991,2.62,NA
+"20.1","Maine",1991,2.39,NA
+"21.1","Maryland",1991,2.61,NA
+"22.1","Massachusetts",1991,2.51,NA
+"23.1","Michigan",1991,2.56,NA
+"24.1","Minnesota",1991,2.52,NA
+"25.1","Mississippi",1991,2.63,NA
+"26.1","Missouri",1991,2.48,NA
+"27.1","Montana",1991,2.45,NA
+"28.1","Nebraska",1991,2.49,NA
+"29.1","Nevada",1991,2.62,NA
+"30.1","New Hampshire",1991,2.53,NA
+"31.1","New Jersey",1991,2.68,NA
+"32.1","New Mexico",1991,2.63,NA
+"33.1","New York",1991,2.61,NA
+"34.1","North Carolina",1991,2.49,NA
+"35.1","North Dakota",1991,2.41,NA
+"36.1","Ohio",1991,2.49,NA
+"37.1","Oklahoma",1991,2.49,NA
+"38.1","Oregon",1991,2.51,NA
+"39.1","Pennsylvania",1991,2.48,NA
+"40.1","Rhode Island",1991,2.47,NA
+"41.1","South Carolina",1991,2.53,NA
+"42.1","South Dakota",1991,2.5,NA
+"43.1","Tennessee",1991,2.48,NA
+"44.1","Texas",1991,2.74,NA
+"45.1","Utah",1991,3.13,NA
+"46.1","Vermont",1991,2.44,NA
+"47.1","Virginia",1991,2.54,NA
+"48.1","Washington",1991,2.53,NA
+"49.1","West Virginia",1991,2.4,NA
+"50.1","Wisconsin",1991,2.5,NA
+"51.1","Wyoming",1991,2.48,NA
+"1.2","Alabama",1992,2.49,NA
+"2.2","Alaska",1992,2.74,NA
+"3.2","Arizona",1992,2.64,NA
+"4.2","Arkansas",1992,2.49,NA
+"5.2","California",1992,2.87,NA
+"6.2","Colorado",1992,2.53,NA
+"7.2","Connecticut",1992,2.53,NA
+"8.2","Delaware",1992,2.54,NA
+"9.2","District of Columbia",1992,2.16,NA
+"10.2","Florida",1992,2.46,NA
+"11.2","Georgia",1992,2.65,NA
+"12.2","Hawaii",1992,2.92,NA
+"13.2","Idaho",1992,2.69,NA
+"14.2","Illinois",1992,2.63,NA
+"15.2","Indiana",1992,2.53,NA
+"16.2","Iowa",1992,2.46,NA
+"17.2","Kansas",1992,2.51,NA
+"18.2","Kentucky",1992,2.47,NA
+"19.2","Louisiana",1992,2.62,NA
+"20.2","Maine",1992,2.39,NA
+"21.2","Maryland",1992,2.61,NA
+"22.2","Massachusetts",1992,2.51,NA
+"23.2","Michigan",1992,2.56,NA
+"24.2","Minnesota",1992,2.52,NA
+"25.2","Mississippi",1992,2.63,NA
+"26.2","Missouri",1992,2.48,NA
+"27.2","Montana",1992,2.45,NA
+"28.2","Nebraska",1992,2.49,NA
+"29.2","Nevada",1992,2.62,NA
+"30.2","New Hampshire",1992,2.53,NA
+"31.2","New Jersey",1992,2.68,NA
+"32.2","New Mexico",1992,2.63,NA
+"33.2","New York",1992,2.61,NA
+"34.2","North Carolina",1992,2.49,NA
+"35.2","North Dakota",1992,2.41,NA
+"36.2","Ohio",1992,2.49,NA
+"37.2","Oklahoma",1992,2.49,NA
+"38.2","Oregon",1992,2.51,NA
+"39.2","Pennsylvania",1992,2.48,NA
+"40.2","Rhode Island",1992,2.47,NA
+"41.2","South Carolina",1992,2.53,NA
+"42.2","South Dakota",1992,2.5,NA
+"43.2","Tennessee",1992,2.48,NA
+"44.2","Texas",1992,2.74,NA
+"45.2","Utah",1992,3.13,NA
+"46.2","Vermont",1992,2.44,NA
+"47.2","Virginia",1992,2.54,NA
+"48.2","Washington",1992,2.53,NA
+"49.2","West Virginia",1992,2.4,NA
+"50.2","Wisconsin",1992,2.5,NA
+"51.2","Wyoming",1992,2.48,NA
+"1.3","Alabama",1993,2.49,NA
+"2.3","Alaska",1993,2.74,NA
+"3.3","Arizona",1993,2.64,NA
+"4.3","Arkansas",1993,2.49,NA
+"5.3","California",1993,2.87,NA
+"6.3","Colorado",1993,2.53,NA
+"7.3","Connecticut",1993,2.53,NA
+"8.3","Delaware",1993,2.54,NA
+"9.3","District of Columbia",1993,2.16,NA
+"10.3","Florida",1993,2.46,NA
+"11.3","Georgia",1993,2.65,NA
+"12.3","Hawaii",1993,2.92,NA
+"13.3","Idaho",1993,2.69,NA
+"14.3","Illinois",1993,2.63,NA
+"15.3","Indiana",1993,2.53,NA
+"16.3","Iowa",1993,2.46,NA
+"17.3","Kansas",1993,2.51,NA
+"18.3","Kentucky",1993,2.47,NA
+"19.3","Louisiana",1993,2.62,NA
+"20.3","Maine",1993,2.39,NA
+"21.3","Maryland",1993,2.61,NA
+"22.3","Massachusetts",1993,2.51,NA
+"23.3","Michigan",1993,2.56,NA
+"24.3","Minnesota",1993,2.52,NA
+"25.3","Mississippi",1993,2.63,NA
+"26.3","Missouri",1993,2.48,NA
+"27.3","Montana",1993,2.45,NA
+"28.3","Nebraska",1993,2.49,NA
+"29.3","Nevada",1993,2.62,NA
+"30.3","New Hampshire",1993,2.53,NA
+"31.3","New Jersey",1993,2.68,NA
+"32.3","New Mexico",1993,2.63,NA
+"33.3","New York",1993,2.61,NA
+"34.3","North Carolina",1993,2.49,NA
+"35.3","North Dakota",1993,2.41,NA
+"36.3","Ohio",1993,2.49,NA
+"37.3","Oklahoma",1993,2.49,NA
+"38.3","Oregon",1993,2.51,NA
+"39.3","Pennsylvania",1993,2.48,NA
+"40.3","Rhode Island",1993,2.47,NA
+"41.3","South Carolina",1993,2.53,NA
+"42.3","South Dakota",1993,2.5,NA
+"43.3","Tennessee",1993,2.48,NA
+"44.3","Texas",1993,2.74,NA
+"45.3","Utah",1993,3.13,NA
+"46.3","Vermont",1993,2.44,NA
+"47.3","Virginia",1993,2.54,NA
+"48.3","Washington",1993,2.53,NA
+"49.3","West Virginia",1993,2.4,NA
+"50.3","Wisconsin",1993,2.5,NA
+"51.3","Wyoming",1993,2.48,NA
+"1.4","Alabama",1994,2.49,NA
+"2.4","Alaska",1994,2.74,NA
+"3.4","Arizona",1994,2.64,NA
+"4.4","Arkansas",1994,2.49,NA
+"5.4","California",1994,2.87,NA
+"6.4","Colorado",1994,2.53,NA
+"7.4","Connecticut",1994,2.53,NA
+"8.4","Delaware",1994,2.54,NA
+"9.4","District of Columbia",1994,2.16,NA
+"10.4","Florida",1994,2.46,NA
+"11.4","Georgia",1994,2.65,NA
+"12.4","Hawaii",1994,2.92,NA
+"13.4","Idaho",1994,2.69,NA
+"14.4","Illinois",1994,2.63,NA
+"15.4","Indiana",1994,2.53,NA
+"16.4","Iowa",1994,2.46,NA
+"17.4","Kansas",1994,2.51,NA
+"18.4","Kentucky",1994,2.47,NA
+"19.4","Louisiana",1994,2.62,NA
+"20.4","Maine",1994,2.39,NA
+"21.4","Maryland",1994,2.61,NA
+"22.4","Massachusetts",1994,2.51,NA
+"23.4","Michigan",1994,2.56,NA
+"24.4","Minnesota",1994,2.52,NA
+"25.4","Mississippi",1994,2.63,NA
+"26.4","Missouri",1994,2.48,NA
+"27.4","Montana",1994,2.45,NA
+"28.4","Nebraska",1994,2.49,NA
+"29.4","Nevada",1994,2.62,NA
+"30.4","New Hampshire",1994,2.53,NA
+"31.4","New Jersey",1994,2.68,NA
+"32.4","New Mexico",1994,2.63,NA
+"33.4","New York",1994,2.61,NA
+"34.4","North Carolina",1994,2.49,NA
+"35.4","North Dakota",1994,2.41,NA
+"36.4","Ohio",1994,2.49,NA
+"37.4","Oklahoma",1994,2.49,NA
+"38.4","Oregon",1994,2.51,NA
+"39.4","Pennsylvania",1994,2.48,NA
+"40.4","Rhode Island",1994,2.47,NA
+"41.4","South Carolina",1994,2.53,NA
+"42.4","South Dakota",1994,2.5,NA
+"43.4","Tennessee",1994,2.48,NA
+"44.4","Texas",1994,2.74,NA
+"45.4","Utah",1994,3.13,NA
+"46.4","Vermont",1994,2.44,NA
+"47.4","Virginia",1994,2.54,NA
+"48.4","Washington",1994,2.53,NA
+"49.4","West Virginia",1994,2.4,NA
+"50.4","Wisconsin",1994,2.5,NA
+"51.4","Wyoming",1994,2.48,NA
+"1.5","Alabama",1995,2.49,NA
+"2.5","Alaska",1995,2.74,NA
+"3.5","Arizona",1995,2.64,NA
+"4.5","Arkansas",1995,2.49,NA
+"5.5","California",1995,2.87,NA
+"6.5","Colorado",1995,2.53,NA
+"7.5","Connecticut",1995,2.53,NA
+"8.5","Delaware",1995,2.54,NA
+"9.5","District of Columbia",1995,2.16,NA
+"10.5","Florida",1995,2.46,NA
+"11.5","Georgia",1995,2.65,NA
+"12.5","Hawaii",1995,2.92,NA
+"13.5","Idaho",1995,2.69,NA
+"14.5","Illinois",1995,2.63,NA
+"15.5","Indiana",1995,2.53,NA
+"16.5","Iowa",1995,2.46,NA
+"17.5","Kansas",1995,2.51,NA
+"18.5","Kentucky",1995,2.47,NA
+"19.5","Louisiana",1995,2.62,NA
+"20.5","Maine",1995,2.39,NA
+"21.5","Maryland",1995,2.61,NA
+"22.5","Massachusetts",1995,2.51,NA
+"23.5","Michigan",1995,2.56,NA
+"24.5","Minnesota",1995,2.52,NA
+"25.5","Mississippi",1995,2.63,NA
+"26.5","Missouri",1995,2.48,NA
+"27.5","Montana",1995,2.45,NA
+"28.5","Nebraska",1995,2.49,NA
+"29.5","Nevada",1995,2.62,NA
+"30.5","New Hampshire",1995,2.53,NA
+"31.5","New Jersey",1995,2.68,NA
+"32.5","New Mexico",1995,2.63,NA
+"33.5","New York",1995,2.61,NA
+"34.5","North Carolina",1995,2.49,NA
+"35.5","North Dakota",1995,2.41,NA
+"36.5","Ohio",1995,2.49,NA
+"37.5","Oklahoma",1995,2.49,NA
+"38.5","Oregon",1995,2.51,NA
+"39.5","Pennsylvania",1995,2.48,NA
+"40.5","Rhode Island",1995,2.47,NA
+"41.5","South Carolina",1995,2.53,NA
+"42.5","South Dakota",1995,2.5,NA
+"43.5","Tennessee",1995,2.48,NA
+"44.5","Texas",1995,2.74,NA
+"45.5","Utah",1995,3.13,NA
+"46.5","Vermont",1995,2.44,NA
+"47.5","Virginia",1995,2.54,NA
+"48.5","Washington",1995,2.53,NA
+"49.5","West Virginia",1995,2.4,NA
+"50.5","Wisconsin",1995,2.5,NA
+"51.5","Wyoming",1995,2.48,NA
+"1.6","Alabama",1996,2.49,NA
+"2.6","Alaska",1996,2.74,NA
+"3.6","Arizona",1996,2.64,NA
+"4.6","Arkansas",1996,2.49,NA
+"5.6","California",1996,2.87,NA
+"6.6","Colorado",1996,2.53,NA
+"7.6","Connecticut",1996,2.53,NA
+"8.6","Delaware",1996,2.54,NA
+"9.6","District of Columbia",1996,2.16,NA
+"10.6","Florida",1996,2.46,NA
+"11.6","Georgia",1996,2.65,NA
+"12.6","Hawaii",1996,2.92,NA
+"13.6","Idaho",1996,2.69,NA
+"14.6","Illinois",1996,2.63,NA
+"15.6","Indiana",1996,2.53,NA
+"16.6","Iowa",1996,2.46,NA
+"17.6","Kansas",1996,2.51,NA
+"18.6","Kentucky",1996,2.47,NA
+"19.6","Louisiana",1996,2.62,NA
+"20.6","Maine",1996,2.39,NA
+"21.6","Maryland",1996,2.61,NA
+"22.6","Massachusetts",1996,2.51,NA
+"23.6","Michigan",1996,2.56,NA
+"24.6","Minnesota",1996,2.52,NA
+"25.6","Mississippi",1996,2.63,NA
+"26.6","Missouri",1996,2.48,NA
+"27.6","Montana",1996,2.45,NA
+"28.6","Nebraska",1996,2.49,NA
+"29.6","Nevada",1996,2.62,NA
+"30.6","New Hampshire",1996,2.53,NA
+"31.6","New Jersey",1996,2.68,NA
+"32.6","New Mexico",1996,2.63,NA
+"33.6","New York",1996,2.61,NA
+"34.6","North Carolina",1996,2.49,NA
+"35.6","North Dakota",1996,2.41,NA
+"36.6","Ohio",1996,2.49,NA
+"37.6","Oklahoma",1996,2.49,NA
+"38.6","Oregon",1996,2.51,NA
+"39.6","Pennsylvania",1996,2.48,NA
+"40.6","Rhode Island",1996,2.47,NA
+"41.6","South Carolina",1996,2.53,NA
+"42.6","South Dakota",1996,2.5,NA
+"43.6","Tennessee",1996,2.48,NA
+"44.6","Texas",1996,2.74,NA
+"45.6","Utah",1996,3.13,NA
+"46.6","Vermont",1996,2.44,NA
+"47.6","Virginia",1996,2.54,NA
+"48.6","Washington",1996,2.53,NA
+"49.6","West Virginia",1996,2.4,NA
+"50.6","Wisconsin",1996,2.5,NA
+"51.6","Wyoming",1996,2.48,NA
+"1.7","Alabama",1997,2.49,NA
+"2.7","Alaska",1997,2.74,NA
+"3.7","Arizona",1997,2.64,NA
+"4.7","Arkansas",1997,2.49,NA
+"5.7","California",1997,2.87,NA
+"6.7","Colorado",1997,2.53,NA
+"7.7","Connecticut",1997,2.53,NA
+"8.7","Delaware",1997,2.54,NA
+"9.7","District of Columbia",1997,2.16,NA
+"10.7","Florida",1997,2.46,NA
+"11.7","Georgia",1997,2.65,NA
+"12.7","Hawaii",1997,2.92,NA
+"13.7","Idaho",1997,2.69,NA
+"14.7","Illinois",1997,2.63,NA
+"15.7","Indiana",1997,2.53,NA
+"16.7","Iowa",1997,2.46,NA
+"17.7","Kansas",1997,2.51,NA
+"18.7","Kentucky",1997,2.47,NA
+"19.7","Louisiana",1997,2.62,NA
+"20.7","Maine",1997,2.39,NA
+"21.7","Maryland",1997,2.61,NA
+"22.7","Massachusetts",1997,2.51,NA
+"23.7","Michigan",1997,2.56,NA
+"24.7","Minnesota",1997,2.52,NA
+"25.7","Mississippi",1997,2.63,NA
+"26.7","Missouri",1997,2.48,NA
+"27.7","Montana",1997,2.45,NA
+"28.7","Nebraska",1997,2.49,NA
+"29.7","Nevada",1997,2.62,NA
+"30.7","New Hampshire",1997,2.53,NA
+"31.7","New Jersey",1997,2.68,NA
+"32.7","New Mexico",1997,2.63,NA
+"33.7","New York",1997,2.61,NA
+"34.7","North Carolina",1997,2.49,NA
+"35.7","North Dakota",1997,2.41,NA
+"36.7","Ohio",1997,2.49,NA
+"37.7","Oklahoma",1997,2.49,NA
+"38.7","Oregon",1997,2.51,NA
+"39.7","Pennsylvania",1997,2.48,NA
+"40.7","Rhode Island",1997,2.47,NA
+"41.7","South Carolina",1997,2.53,NA
+"42.7","South Dakota",1997,2.5,NA
+"43.7","Tennessee",1997,2.48,NA
+"44.7","Texas",1997,2.74,NA
+"45.7","Utah",1997,3.13,NA
+"46.7","Vermont",1997,2.44,NA
+"47.7","Virginia",1997,2.54,NA
+"48.7","Washington",1997,2.53,NA
+"49.7","West Virginia",1997,2.4,NA
+"50.7","Wisconsin",1997,2.5,NA
+"51.7","Wyoming",1997,2.48,NA
+"1.8","Alabama",1998,2.49,NA
+"2.8","Alaska",1998,2.74,NA
+"3.8","Arizona",1998,2.64,NA
+"4.8","Arkansas",1998,2.49,NA
+"5.8","California",1998,2.87,NA
+"6.8","Colorado",1998,2.53,NA
+"7.8","Connecticut",1998,2.53,NA
+"8.8","Delaware",1998,2.54,NA
+"9.8","District of Columbia",1998,2.16,NA
+"10.8","Florida",1998,2.46,NA
+"11.8","Georgia",1998,2.65,NA
+"12.8","Hawaii",1998,2.92,NA
+"13.8","Idaho",1998,2.69,NA
+"14.8","Illinois",1998,2.63,NA
+"15.8","Indiana",1998,2.53,NA
+"16.8","Iowa",1998,2.46,NA
+"17.8","Kansas",1998,2.51,NA
+"18.8","Kentucky",1998,2.47,NA
+"19.8","Louisiana",1998,2.62,NA
+"20.8","Maine",1998,2.39,NA
+"21.8","Maryland",1998,2.61,NA
+"22.8","Massachusetts",1998,2.51,NA
+"23.8","Michigan",1998,2.56,NA
+"24.8","Minnesota",1998,2.52,NA
+"25.8","Mississippi",1998,2.63,NA
+"26.8","Missouri",1998,2.48,NA
+"27.8","Montana",1998,2.45,NA
+"28.8","Nebraska",1998,2.49,NA
+"29.8","Nevada",1998,2.62,NA
+"30.8","New Hampshire",1998,2.53,NA
+"31.8","New Jersey",1998,2.68,NA
+"32.8","New Mexico",1998,2.63,NA
+"33.8","New York",1998,2.61,NA
+"34.8","North Carolina",1998,2.49,NA
+"35.8","North Dakota",1998,2.41,NA
+"36.8","Ohio",1998,2.49,NA
+"37.8","Oklahoma",1998,2.49,NA
+"38.8","Oregon",1998,2.51,NA
+"39.8","Pennsylvania",1998,2.48,NA
+"40.8","Rhode Island",1998,2.47,NA
+"41.8","South Carolina",1998,2.53,NA
+"42.8","South Dakota",1998,2.5,NA
+"43.8","Tennessee",1998,2.48,NA
+"44.8","Texas",1998,2.74,NA
+"45.8","Utah",1998,3.13,NA
+"46.8","Vermont",1998,2.44,NA
+"47.8","Virginia",1998,2.54,NA
+"48.8","Washington",1998,2.53,NA
+"49.8","West Virginia",1998,2.4,NA
+"50.8","Wisconsin",1998,2.5,NA
+"51.8","Wyoming",1998,2.48,NA
+"1.9","Alabama",1999,2.49,NA
+"2.9","Alaska",1999,2.74,NA
+"3.9","Arizona",1999,2.64,NA
+"4.9","Arkansas",1999,2.49,NA
+"5.9","California",1999,2.87,NA
+"6.9","Colorado",1999,2.53,NA
+"7.9","Connecticut",1999,2.53,NA
+"8.9","Delaware",1999,2.54,NA
+"9.9","District of Columbia",1999,2.16,NA
+"10.9","Florida",1999,2.46,NA
+"11.9","Georgia",1999,2.65,NA
+"12.9","Hawaii",1999,2.92,NA
+"13.9","Idaho",1999,2.69,NA
+"14.9","Illinois",1999,2.63,NA
+"15.9","Indiana",1999,2.53,NA
+"16.9","Iowa",1999,2.46,NA
+"17.9","Kansas",1999,2.51,NA
+"18.9","Kentucky",1999,2.47,NA
+"19.9","Louisiana",1999,2.62,NA
+"20.9","Maine",1999,2.39,NA
+"21.9","Maryland",1999,2.61,NA
+"22.9","Massachusetts",1999,2.51,NA
+"23.9","Michigan",1999,2.56,NA
+"24.9","Minnesota",1999,2.52,NA
+"25.9","Mississippi",1999,2.63,NA
+"26.9","Missouri",1999,2.48,NA
+"27.9","Montana",1999,2.45,NA
+"28.9","Nebraska",1999,2.49,NA
+"29.9","Nevada",1999,2.62,NA
+"30.9","New Hampshire",1999,2.53,NA
+"31.9","New Jersey",1999,2.68,NA
+"32.9","New Mexico",1999,2.63,NA
+"33.9","New York",1999,2.61,NA
+"34.9","North Carolina",1999,2.49,NA
+"35.9","North Dakota",1999,2.41,NA
+"36.9","Ohio",1999,2.49,NA
+"37.9","Oklahoma",1999,2.49,NA
+"38.9","Oregon",1999,2.51,NA
+"39.9","Pennsylvania",1999,2.48,NA
+"40.9","Rhode Island",1999,2.47,NA
+"41.9","South Carolina",1999,2.53,NA
+"42.9","South Dakota",1999,2.5,NA
+"43.9","Tennessee",1999,2.48,NA
+"44.9","Texas",1999,2.74,NA
+"45.9","Utah",1999,3.13,NA
+"46.9","Vermont",1999,2.44,NA
+"47.9","Virginia",1999,2.54,NA
+"48.9","Washington",1999,2.53,NA
+"49.9","West Virginia",1999,2.4,NA
+"50.9","Wisconsin",1999,2.5,NA
+"51.9","Wyoming",1999,2.48,NA
+"1.10","Alabama",2000,2.49,NA
+"2.10","Alaska",2000,2.74,NA
+"3.10","Arizona",2000,2.64,NA
+"4.10","Arkansas",2000,2.49,NA
+"5.10","California",2000,2.87,NA
+"6.10","Colorado",2000,2.53,NA
+"7.10","Connecticut",2000,2.53,NA
+"8.10","Delaware",2000,2.54,NA
+"9.10","District of Columbia",2000,2.16,NA
+"10.10","Florida",2000,2.46,NA
+"11.10","Georgia",2000,2.65,NA
+"12.10","Hawaii",2000,2.92,NA
+"13.10","Idaho",2000,2.69,NA
+"14.10","Illinois",2000,2.63,NA
+"15.10","Indiana",2000,2.53,NA
+"16.10","Iowa",2000,2.46,NA
+"17.10","Kansas",2000,2.51,NA
+"18.10","Kentucky",2000,2.47,NA
+"19.10","Louisiana",2000,2.62,NA
+"20.10","Maine",2000,2.39,NA
+"21.10","Maryland",2000,2.61,NA
+"22.10","Massachusetts",2000,2.51,NA
+"23.10","Michigan",2000,2.56,NA
+"24.10","Minnesota",2000,2.52,NA
+"25.10","Mississippi",2000,2.63,NA
+"26.10","Missouri",2000,2.48,NA
+"27.10","Montana",2000,2.45,NA
+"28.10","Nebraska",2000,2.49,NA
+"29.10","Nevada",2000,2.62,NA
+"30.10","New Hampshire",2000,2.53,NA
+"31.10","New Jersey",2000,2.68,NA
+"32.10","New Mexico",2000,2.63,NA
+"33.10","New York",2000,2.61,NA
+"34.10","North Carolina",2000,2.49,NA
+"35.10","North Dakota",2000,2.41,NA
+"36.10","Ohio",2000,2.49,NA
+"37.10","Oklahoma",2000,2.49,NA
+"38.10","Oregon",2000,2.51,NA
+"39.10","Pennsylvania",2000,2.48,NA
+"40.10","Rhode Island",2000,2.47,NA
+"41.10","South Carolina",2000,2.53,NA
+"42.10","South Dakota",2000,2.5,NA
+"43.10","Tennessee",2000,2.48,NA
+"44.10","Texas",2000,2.74,NA
+"45.10","Utah",2000,3.13,NA
+"46.10","Vermont",2000,2.44,NA
+"47.10","Virginia",2000,2.54,NA
+"48.10","Washington",2000,2.53,NA
+"49.10","West Virginia",2000,2.4,NA
+"50.10","Wisconsin",2000,2.5,NA
+"51.10","Wyoming",2000,2.48,NA
+"110","Alabama",2001,2.48,NA
+"210","Alaska",2001,2.65,NA
+"310","Arizona",2001,2.63,NA
+"410","Arkansas",2001,2.47,NA
+"53","California",2001,2.9,NA
+"61","Colorado",2001,2.49,NA
+"71","Connecticut",2001,2.52,NA
+"81","Delaware",2001,2.55,NA
+"91","District of Columbia",2001,2.11,NA
+"101","Florida",2001,2.48,NA
+"111","Georgia",2001,2.63,NA
+"121","Hawaii",2001,2.89,NA
+"131","Idaho",2001,2.66,NA
+"141","Illinois",2001,2.59,NA
+"151","Indiana",2001,2.52,NA
+"161","Iowa",2001,2.41,NA
+"171","Kansas",2001,2.49,NA
+"181","Kentucky",2001,2.45,NA
+"191","Louisiana",2001,2.55,NA
+"201","Maine",2001,2.32,NA
+"211","Maryland",2001,2.61,NA
+"221","Massachusetts",2001,2.48,NA
+"231","Michigan",2001,2.49,NA
+"241","Minnesota",2001,2.48,NA
+"251","Mississippi",2001,2.58,NA
+"261","Missouri",2001,2.45,NA
+"271","Montana",2001,2.35,NA
+"281","Nebraska",2001,2.46,NA
+"291","Nevada",2001,2.65,NA
+"301","New Hampshire",2001,2.46,NA
+"311","New Jersey",2001,2.68,NA
+"321","New Mexico",2001,2.55,NA
+"331","New York",2001,2.57,NA
+"341","North Carolina",2001,2.48,NA
+"351","North Dakota",2001,2.3,NA
+"361","Ohio",2001,2.44,NA
+"371","Oklahoma",2001,2.49,NA
+"381","Oregon",2001,2.47,NA
+"391","Pennsylvania",2001,2.45,NA
+"401","Rhode Island",2001,2.44,NA
+"411","South Carolina",2001,2.49,NA
+"421","South Dakota",2001,2.42,NA
+"431","Tennessee",2001,2.48,NA
+"441","Texas",2001,2.75,NA
+"451","Utah",2001,3.1,NA
+"461","Vermont",2001,2.34,NA
+"471","Virginia",2001,2.54,NA
+"481","Washington",2001,2.51,NA
+"491","West Virginia",2001,2.36,NA
+"501","Wisconsin",2001,2.43,NA
+"511","Wyoming",2001,2.42,NA
+"1.11","Alabama",2002,2.48,NA
+"2.11","Alaska",2002,2.65,NA
+"3.11","Arizona",2002,2.63,NA
+"4.11","Arkansas",2002,2.47,NA
+"5.11","California",2002,2.9,NA
+"6.11","Colorado",2002,2.49,NA
+"7.11","Connecticut",2002,2.52,NA
+"8.11","Delaware",2002,2.55,NA
+"9.11","District of Columbia",2002,2.11,NA
+"10.11","Florida",2002,2.48,NA
+"11.11","Georgia",2002,2.63,NA
+"12.11","Hawaii",2002,2.89,NA
+"13.11","Idaho",2002,2.66,NA
+"14.11","Illinois",2002,2.59,NA
+"15.11","Indiana",2002,2.52,NA
+"16.11","Iowa",2002,2.41,NA
+"17.11","Kansas",2002,2.49,NA
+"18.11","Kentucky",2002,2.45,NA
+"19.11","Louisiana",2002,2.55,NA
+"20.11","Maine",2002,2.32,NA
+"21.11","Maryland",2002,2.61,NA
+"22.11","Massachusetts",2002,2.48,NA
+"23.11","Michigan",2002,2.49,NA
+"24.11","Minnesota",2002,2.48,NA
+"25.11","Mississippi",2002,2.58,NA
+"26.11","Missouri",2002,2.45,NA
+"27.11","Montana",2002,2.35,NA
+"28.11","Nebraska",2002,2.46,NA
+"29.11","Nevada",2002,2.65,NA
+"30.11","New Hampshire",2002,2.46,NA
+"31.11","New Jersey",2002,2.68,NA
+"32.11","New Mexico",2002,2.55,NA
+"33.11","New York",2002,2.57,NA
+"34.11","North Carolina",2002,2.48,NA
+"35.11","North Dakota",2002,2.3,NA
+"36.11","Ohio",2002,2.44,NA
+"37.11","Oklahoma",2002,2.49,NA
+"38.11","Oregon",2002,2.47,NA
+"39.11","Pennsylvania",2002,2.45,NA
+"40.11","Rhode Island",2002,2.44,NA
+"41.11","South Carolina",2002,2.49,NA
+"42.11","South Dakota",2002,2.42,NA
+"43.11","Tennessee",2002,2.48,NA
+"44.11","Texas",2002,2.75,NA
+"45.11","Utah",2002,3.1,NA
+"46.11","Vermont",2002,2.34,NA
+"47.11","Virginia",2002,2.54,NA
+"48.11","Washington",2002,2.51,NA
+"49.11","West Virginia",2002,2.36,NA
+"50.11","Wisconsin",2002,2.43,NA
+"51.11","Wyoming",2002,2.42,NA
+"1.21","Alabama",2003,2.48,NA
+"2.21","Alaska",2003,2.65,NA
+"3.21","Arizona",2003,2.63,NA
+"4.21","Arkansas",2003,2.47,NA
+"5.21","California",2003,2.9,NA
+"6.21","Colorado",2003,2.49,NA
+"7.21","Connecticut",2003,2.52,NA
+"8.21","Delaware",2003,2.55,NA
+"9.21","District of Columbia",2003,2.11,NA
+"10.21","Florida",2003,2.48,NA
+"11.21","Georgia",2003,2.63,NA
+"12.21","Hawaii",2003,2.89,NA
+"13.21","Idaho",2003,2.66,NA
+"14.21","Illinois",2003,2.59,NA
+"15.21","Indiana",2003,2.52,NA
+"16.21","Iowa",2003,2.41,NA
+"17.21","Kansas",2003,2.49,NA
+"18.21","Kentucky",2003,2.45,NA
+"19.21","Louisiana",2003,2.55,NA
+"20.21","Maine",2003,2.32,NA
+"21.21","Maryland",2003,2.61,NA
+"22.21","Massachusetts",2003,2.48,NA
+"23.21","Michigan",2003,2.49,NA
+"24.21","Minnesota",2003,2.48,NA
+"25.21","Mississippi",2003,2.58,NA
+"26.21","Missouri",2003,2.45,NA
+"27.21","Montana",2003,2.35,NA
+"28.21","Nebraska",2003,2.46,NA
+"29.21","Nevada",2003,2.65,NA
+"30.21","New Hampshire",2003,2.46,NA
+"31.21","New Jersey",2003,2.68,NA
+"32.21","New Mexico",2003,2.55,NA
+"33.21","New York",2003,2.57,NA
+"34.21","North Carolina",2003,2.48,NA
+"35.21","North Dakota",2003,2.3,NA
+"36.21","Ohio",2003,2.44,NA
+"37.21","Oklahoma",2003,2.49,NA
+"38.21","Oregon",2003,2.47,NA
+"39.21","Pennsylvania",2003,2.45,NA
+"40.21","Rhode Island",2003,2.44,NA
+"41.21","South Carolina",2003,2.49,NA
+"42.21","South Dakota",2003,2.42,NA
+"43.21","Tennessee",2003,2.48,NA
+"44.21","Texas",2003,2.75,NA
+"45.21","Utah",2003,3.1,NA
+"46.21","Vermont",2003,2.34,NA
+"47.21","Virginia",2003,2.54,NA
+"48.21","Washington",2003,2.51,NA
+"49.21","West Virginia",2003,2.36,NA
+"50.21","Wisconsin",2003,2.43,NA
+"51.21","Wyoming",2003,2.42,NA
+"1.31","Alabama",2004,2.48,NA
+"2.31","Alaska",2004,2.65,NA
+"3.31","Arizona",2004,2.63,NA
+"4.31","Arkansas",2004,2.47,NA
+"5.31","California",2004,2.9,NA
+"6.31","Colorado",2004,2.49,NA
+"7.31","Connecticut",2004,2.52,NA
+"8.31","Delaware",2004,2.55,NA
+"9.31","District of Columbia",2004,2.11,NA
+"10.31","Florida",2004,2.48,NA
+"11.31","Georgia",2004,2.63,NA
+"12.31","Hawaii",2004,2.89,NA
+"13.31","Idaho",2004,2.66,NA
+"14.31","Illinois",2004,2.59,NA
+"15.31","Indiana",2004,2.52,NA
+"16.31","Iowa",2004,2.41,NA
+"17.31","Kansas",2004,2.49,NA
+"18.31","Kentucky",2004,2.45,NA
+"19.31","Louisiana",2004,2.55,NA
+"20.31","Maine",2004,2.32,NA
+"21.31","Maryland",2004,2.61,NA
+"22.31","Massachusetts",2004,2.48,NA
+"23.31","Michigan",2004,2.49,NA
+"24.31","Minnesota",2004,2.48,NA
+"25.31","Mississippi",2004,2.58,NA
+"26.31","Missouri",2004,2.45,NA
+"27.31","Montana",2004,2.35,NA
+"28.31","Nebraska",2004,2.46,NA
+"29.31","Nevada",2004,2.65,NA
+"30.31","New Hampshire",2004,2.46,NA
+"31.31","New Jersey",2004,2.68,NA
+"32.31","New Mexico",2004,2.55,NA
+"33.31","New York",2004,2.57,NA
+"34.31","North Carolina",2004,2.48,NA
+"35.31","North Dakota",2004,2.3,NA
+"36.31","Ohio",2004,2.44,NA
+"37.31","Oklahoma",2004,2.49,NA
+"38.31","Oregon",2004,2.47,NA
+"39.31","Pennsylvania",2004,2.45,NA
+"40.31","Rhode Island",2004,2.44,NA
+"41.31","South Carolina",2004,2.49,NA
+"42.31","South Dakota",2004,2.42,NA
+"43.31","Tennessee",2004,2.48,NA
+"44.31","Texas",2004,2.75,NA
+"45.31","Utah",2004,3.1,NA
+"46.31","Vermont",2004,2.34,NA
+"47.31","Virginia",2004,2.54,NA
+"48.31","Washington",2004,2.51,NA
+"49.31","West Virginia",2004,2.36,NA
+"50.31","Wisconsin",2004,2.43,NA
+"51.31","Wyoming",2004,2.42,NA
+"112","Alabama",2005,2.48,0.02
+"212","Alaska",2005,2.75,0.03
+"312","Arizona",2005,2.65,0.02
+"412","Arkansas",2005,2.48,0.02
+"54","California",2005,2.92,0.02
+"62","Colorado",2005,2.51,0.02
+"72","Connecticut",2005,2.56,0.02
+"82","Delaware",2005,2.58,0.03
+"92","District of Columbia",2005,2.08,0.03
+"102","Florida",2005,2.47,0.02
+"113","Georgia",2005,2.66,0.02
+"122","Hawaii",2005,2.88,0.03
+"132","Idaho",2005,2.62,0.02
+"142","Illinois",2005,2.65,0.02
+"152","Indiana",2005,2.49,0.02
+"162","Iowa",2005,2.38,0.01
+"172","Kansas",2005,2.48,0.02
+"182","Kentucky",2005,2.45,0.02
+"192","Louisiana",2005,2.62,0.02
+"202","Maine",2005,2.37,0.02
+"213","Maryland",2005,2.62,0.01
+"222","Massachusetts",2005,2.53,0.02
+"232","Michigan",2005,2.54,0.02
+"242","Minnesota",2005,2.47,0.01
+"252","Mississippi",2005,2.61,0.03
+"262","Missouri",2005,2.46,0.02
+"272","Montana",2005,2.47,0.02
+"282","Nebraska",2005,2.45,0.02
+"292","Nevada",2005,2.63,0.02
+"302","New Hampshire",2005,2.56,0.03
+"313","New Jersey",2005,2.71,0.01
+"322","New Mexico",2005,2.59,0.02
+"332","New York",2005,2.62,0.01
+"342","North Carolina",2005,2.47,0.02
+"352","North Dakota",2005,2.25,0.02
+"362","Ohio",2005,2.47,0.02
+"372","Oklahoma",2005,2.49,0.02
+"382","Oregon",2005,2.5,0.02
+"392","Pennsylvania",2005,2.46,0.02
+"402","Rhode Island",2005,2.54,0.02
+"413","South Carolina",2005,2.51,0.02
+"422","South Dakota",2005,2.4,0.02
+"432","Tennessee",2005,2.46,0.02
+"442","Texas",2005,2.79,0.01
+"452","Utah",2005,3.07,0.03
+"462","Vermont",2005,2.42,0.02
+"472","Virginia",2005,2.54,0.02
+"482","Washington",2005,2.51,0.01
+"492","West Virginia",2005,2.39,0.02
+"502","Wisconsin",2005,2.42,0.01
+"512","Wyoming",2005,2.42,0.03
+"52","Puerto Rico",2005,3.08,0.02
+"114","Alabama",2006,2.5,0.02
+"214","Alaska",2006,2.81,0.03
+"314","Arizona",2006,2.72,0.02
+"414","Arkansas",2006,2.48,0.03
+"55","California",2006,2.93,0.02
+"63","Colorado",2006,2.52,0.02
+"73","Connecticut",2006,2.56,0.01
+"83","Delaware",2006,2.59,0.03
+"93","District of Columbia",2006,2.18,0.03
+"103","Florida",2006,2.49,0.01
+"115","Georgia",2006,2.69,0.01
+"123","Hawaii",2006,2.88,0.03
+"133","Idaho",2006,2.61,0.02
+"143","Illinois",2006,2.65,0.01
+"153","Indiana",2006,2.52,0.01
+"163","Iowa",2006,2.38,0.01
+"173","Kansas",2006,2.46,0.02
+"183","Kentucky",2006,2.48,0.02
+"193","Louisiana",2006,2.66,0.01
+"203","Maine",2006,2.34,0.02
+"215","Maryland",2006,2.62,0.01
+"223","Massachusetts",2006,2.54,0.02
+"233","Michigan",2006,2.54,0.01
+"243","Minnesota",2006,2.46,0.01
+"253","Mississippi",2006,2.62,0.02
+"263","Missouri",2006,2.46,0.01
+"273","Montana",2006,2.47,0.02
+"283","Nebraska",2006,2.45,0.02
+"293","Nevada",2006,2.63,0.02
+"303","New Hampshire",2006,2.53,0.02
+"315","New Jersey",2006,2.72,0.01
+"323","New Mexico",2006,2.64,0.03
+"333","New York",2006,2.64,0.01
+"343","North Carolina",2006,2.49,0.02
+"353","North Dakota",2006,2.23,0.02
+"363","Ohio",2006,2.48,0.01
+"373","Oklahoma",2006,2.5,0.02
+"383","Oregon",2006,2.5,0.02
+"393","Pennsylvania",2006,2.47,0.01
+"403","Rhode Island",2006,2.53,0.03
+"415","South Carolina",2006,2.52,0.02
+"423","South Dakota",2006,2.41,0.03
+"433","Tennessee",2006,2.48,0.02
+"443","Texas",2006,2.83,0.02
+"453","Utah",2006,3.08,0.02
+"463","Vermont",2006,2.38,0.03
+"473","Virginia",2006,2.55,0.01
+"483","Washington",2006,2.53,0.01
+"493","West Virginia",2006,2.39,0.03
+"503","Wisconsin",2006,2.42,0.01
+"513","Wyoming",2006,2.42,0.04
+"521","Puerto Rico",2006,3.13,0.02
+"116","Alabama",2007,2.48,0.01
+"216","Alaska",2007,2.8,0.04
+"316","Arizona",2007,2.77,0.02
+"416","Arkansas",2007,2.5,0.02
+"56","California",2007,2.93,0.02
+"64","Colorado",2007,2.56,0.03
+"74","Connecticut",2007,2.56,0.02
+"84","Delaware",2007,2.56,0.03
+"94","District of Columbia",2007,2.2,0.03
+"104","Florida",2007,2.52,0.02
+"117","Georgia",2007,2.72,0.02
+"124","Hawaii",2007,2.84,0.03
+"134","Idaho",2007,2.61,0.02
+"144","Illinois",2007,2.63,0.01
+"154","Indiana",2007,2.5,0.01
+"164","Iowa",2007,2.37,0.01
+"174","Kansas",2007,2.47,0.02
+"184","Kentucky",2007,2.49,0.02
+"194","Louisiana",2007,2.61,0.01
+"204","Maine",2007,2.35,0.02
+"217","Maryland",2007,2.63,0.01
+"224","Massachusetts",2007,2.55,0.02
+"234","Michigan",2007,2.55,0.01
+"244","Minnesota",2007,2.45,0.01
+"254","Mississippi",2007,2.61,0.02
+"264","Missouri",2007,2.47,0.01
+"274","Montana",2007,2.5,0.02
+"284","Nebraska",2007,2.46,0.01
+"294","Nevada",2007,2.65,0.02
+"304","New Hampshire",2007,2.54,0.03
+"317","New Jersey",2007,2.7,0.02
+"324","New Mexico",2007,2.62,0.02
+"334","New York",2007,2.63,0.01
+"344","North Carolina",2007,2.48,0.01
+"354","North Dakota",2007,2.25,0.03
+"364","Ohio",2007,2.48,0.02
+"374","Oklahoma",2007,2.5,0.01
+"384","Oregon",2007,2.49,0.01
+"394","Pennsylvania",2007,2.46,0.02
+"404","Rhode Island",2007,2.53,0.02
+"417","South Carolina",2007,2.5,0.02
+"424","South Dakota",2007,2.45,0.03
+"434","Tennessee",2007,2.49,0.01
+"444","Texas",2007,2.83,0.01
+"454","Utah",2007,3.11,0.02
+"464","Vermont",2007,2.38,0.03
+"474","Virginia",2007,2.55,0.02
+"484","Washington",2007,2.53,0.01
+"494","West Virginia",2007,2.41,0.03
+"504","Wisconsin",2007,2.43,0.02
+"514","Wyoming",2007,2.47,0.04
+"522","Puerto Rico",2007,3.24,0.02
+"118","Alabama",2008,2.5,0.01
+"218","Alaska",2008,2.8,0.04
+"318","Arizona",2008,2.81,0.02
+"418","Arkansas",2008,2.49,0.02
+"57","California",2008,2.95,0.01
+"65","Colorado",2008,2.55,0.02
+"75","Connecticut",2008,2.55,0.01
+"85","Delaware",2008,2.58,0.03
+"95","District of Columbia",2008,2.23,0.03
+"105","Florida",2008,2.54,0.02
+"119","Georgia",2008,2.71,0.02
+"125","Hawaii",2008,2.87,0.03
+"135","Idaho",2008,2.63,0.02
+"145","Illinois",2008,2.63,0.02
+"155","Indiana",2008,2.49,0.02
+"165","Iowa",2008,2.38,0.01
+"175","Kansas",2008,2.45,0.02
+"185","Kentucky",2008,2.46,0.01
+"195","Louisiana",2008,2.64,0.02
+"205","Maine",2008,2.36,0.03
+"219","Maryland",2008,2.62,0.02
+"225","Massachusetts",2008,2.53,0.02
+"235","Michigan",2008,2.56,0.02
+"245","Minnesota",2008,2.43,0.01
+"255","Mississippi",2008,2.59,0.02
+"265","Missouri",2008,2.46,0.02
+"275","Montana",2008,2.5,0.03
+"285","Nebraska",2008,2.46,0.02
+"295","Nevada",2008,2.69,0.03
+"305","New Hampshire",2008,2.53,0.03
+"319","New Jersey",2008,2.69,0.01
+"325","New Mexico",2008,2.62,0.02
+"335","New York",2008,2.65,0.02
+"345","North Carolina",2008,2.49,0.02
+"355","North Dakota",2008,2.24,0.03
+"365","Ohio",2008,2.48,0.02
+"375","Oklahoma",2008,2.51,0.03
+"385","Oregon",2008,2.51,0.02
+"395","Pennsylvania",2008,2.44,0.01
+"405","Rhode Island",2008,2.54,0.03
+"419","South Carolina",2008,2.55,0.03
+"425","South Dakota",2008,2.42,0.03
+"435","Tennessee",2008,2.49,0.02
+"445","Texas",2008,2.82,0.01
+"455","Utah",2008,3.15,0.02
+"465","Vermont",2008,2.4,0.03
+"475","Virginia",2008,2.54,0.01
+"485","Washington",2008,2.51,0.02
+"495","West Virginia",2008,2.36,0.02
+"505","Wisconsin",2008,2.43,0.01
+"515","Wyoming",2008,2.48,0.04
+"523","Puerto Rico",2008,3.29,0.03
+"120","Alabama",2009,2.48,0.02
+"220","Alaska",2009,2.86,0.03
+"320","Arizona",2009,2.84,0.02
+"420","Arkansas",2009,2.49,0.02
+"58","California",2009,2.96,0.01
+"66","Colorado",2009,2.57,0.02
+"76","Connecticut",2009,2.57,0.02
+"86","Delaware",2009,2.63,0.04
+"96","District of Columbia",2009,2.26,0.03
+"106","Florida",2009,2.59,0.01
+"1110","Georgia",2009,2.75,0.01
+"126","Hawaii",2009,2.82,0.03
+"136","Idaho",2009,2.71,0.03
+"146","Illinois",2009,2.64,0.01
+"156","Indiana",2009,2.52,0.02
+"166","Iowa",2009,2.37,0.03
+"176","Kansas",2009,2.48,0.02
+"186","Kentucky",2009,2.47,0.01
+"196","Louisiana",2009,2.59,0.02
+"206","Maine",2009,2.35,0.02
+"2110","Maryland",2009,2.65,0.01
+"226","Massachusetts",2009,2.56,0.02
+"236","Michigan",2009,2.54,0.01
+"246","Minnesota",2009,2.46,0.02
+"256","Mississippi",2009,2.6,0.02
+"266","Missouri",2009,2.49,0.02
+"276","Montana",2009,2.53,0.03
+"286","Nebraska",2009,2.45,0.02
+"296","Nevada",2009,2.7,0.02
+"306","New Hampshire",2009,2.54,0.02
+"3110","New Jersey",2009,2.7,0.01
+"326","New Mexico",2009,2.65,0.02
+"336","New York",2009,2.63,0.01
+"346","North Carolina",2009,2.49,0.01
+"356","North Dakota",2009,2.22,0.02
+"366","Ohio",2009,2.48,0.01
+"376","Oklahoma",2009,2.5,0.03
+"386","Oregon",2009,2.52,0.02
+"396","Pennsylvania",2009,2.47,0.01
+"406","Rhode Island",2009,2.5,0.03
+"4110","South Carolina",2009,2.55,0.02
+"426","South Dakota",2009,2.47,0.03
+"436","Tennessee",2009,2.51,0.01
+"446","Texas",2009,2.84,0.02
+"456","Utah",2009,3.17,0.02
+"466","Vermont",2009,2.38,0.03
+"476","Virginia",2009,2.57,0.02
+"486","Washington",2009,2.55,0.02
+"496","West Virginia",2009,2.37,0.02
+"506","Wisconsin",2009,2.42,0.03
+"516","Wyoming",2009,2.48,0.04
+"524","Puerto Rico",2009,3.32,0.02
+"127","Alabama",2010,2.57,0.02
+"227","Alaska",2010,2.7,0.03
+"327","Arizona",2010,2.69,0.02
+"427","Arkansas",2010,2.55,0.02
+"59","California",2010,2.94,0.01
+"67","Colorado",2010,2.52,0.02
+"77","Connecticut",2010,2.55,0.02
+"87","Delaware",2010,2.66,0.04
+"97","District of Columbia",2010,2.24,0.04
+"107","Florida",2010,2.62,0.02
+"1111","Georgia",2010,2.72,0.03
+"128","Hawaii",2010,2.96,0.03
+"137","Idaho",2010,2.67,0.03
+"147","Illinois",2010,2.64,0.01
+"157","Indiana",2010,2.55,0.01
+"167","Iowa",2010,2.41,0.01
+"177","Kansas",2010,2.52,0.02
+"187","Kentucky",2010,2.51,0.03
+"197","Louisiana",2010,2.61,0.02
+"207","Maine",2010,2.37,0.03
+"2111","Maryland",2010,2.65,0.02
+"228","Massachusetts",2010,2.51,0.02
+"237","Michigan",2010,2.53,0.01
+"247","Minnesota",2010,2.47,0.02
+"257","Mississippi",2010,2.66,0.02
+"267","Missouri",2010,2.48,0.02
+"277","Montana",2010,2.39,0.03
+"287","Nebraska",2010,2.47,0.02
+"297","Nevada",2010,2.7,0.03
+"307","New Hampshire",2010,2.48,0.03
+"3111","New Jersey",2010,2.72,0.02
+"328","New Mexico",2010,2.64,0.02
+"337","New York",2010,2.61,0.01
+"347","North Carolina",2010,2.53,0.02
+"357","North Dakota",2010,2.32,0.03
+"367","Ohio",2010,2.48,0.01
+"377","Oklahoma",2010,2.55,0.02
+"387","Oregon",2010,2.49,0.02
+"397","Pennsylvania",2010,2.49,0.01
+"407","Rhode Island",2010,2.51,0.03
+"4111","South Carolina",2010,2.55,0.02
+"428","South Dakota",2010,2.45,0.03
+"437","Tennessee",2010,2.54,0.01
+"447","Texas",2010,2.82,0.01
+"457","Utah",2010,3.1,0.02
+"467","Vermont",2010,2.34,0.03
+"477","Virginia",2010,2.6,0.01
+"487","Washington",2010,2.53,0.02
+"497","West Virginia",2010,2.43,0.02
+"507","Wisconsin",2010,2.43,0.01
+"517","Wyoming",2010,2.47,0.04
+"525","Puerto Rico",2010,2.79,0.02
+"129","Alabama",2011,2.54,0.02
+"229","Alaska",2011,2.71,0.04
+"329","Arizona",2011,2.69,0.01
+"429","Arkansas",2011,2.54,0.03
+"510","California",2011,2.96,0.01
+"68","Colorado",2011,2.53,0.01
+"78","Connecticut",2011,2.56,0.02
+"88","Delaware",2011,2.65,0.03
+"98","District of Columbia",2011,2.15,0.03
+"108","Florida",2011,2.62,0.01
+"1112","Georgia",2011,2.74,0.03
+"1210","Hawaii",2011,2.97,0.04
+"138","Idaho",2011,2.68,0.03
+"148","Illinois",2011,2.65,0.01
+"158","Indiana",2011,2.57,0.03
+"168","Iowa",2011,2.44,0.03
+"178","Kansas",2011,2.53,0.02
+"188","Kentucky",2011,2.54,0.02
+"198","Louisiana",2011,2.61,0.02
+"208","Maine",2011,2.34,0.02
+"2112","Maryland",2011,2.67,0.02
+"2210","Massachusetts",2011,2.51,0.02
+"238","Michigan",2011,2.56,0.02
+"248","Minnesota",2011,2.48,0.02
+"258","Mississippi",2011,2.67,0.02
+"268","Missouri",2011,2.49,0.01
+"278","Montana",2011,2.4,0.03
+"288","Nebraska",2011,2.48,0.03
+"298","Nevada",2011,2.74,0.03
+"308","New Hampshire",2011,2.47,0.02
+"3112","New Jersey",2011,2.73,0.02
+"3210","New Mexico",2011,2.66,0.03
+"338","New York",2011,2.63,0.02
+"348","North Carolina",2011,2.55,0.01
+"358","North Dakota",2011,2.32,0.03
+"368","Ohio",2011,2.48,0.02
+"378","Oklahoma",2011,2.55,0.01
+"388","Oregon",2011,2.5,0.03
+"398","Pennsylvania",2011,2.49,0.01
+"408","Rhode Island",2011,2.45,0.03
+"4112","South Carolina",2011,2.57,0.03
+"4210","South Dakota",2011,2.44,0.03
+"438","Tennessee",2011,2.53,0.01
+"448","Texas",2011,2.84,0.03
+"458","Utah",2011,3.13,0.02
+"468","Vermont",2011,2.34,0.03
+"478","Virginia",2011,2.63,0.02
+"488","Washington",2011,2.54,0.01
+"498","West Virginia",2011,2.46,0.03
+"508","Wisconsin",2011,2.44,0.01
+"518","Wyoming",2011,2.49,0.04
+"526","Puerto Rico",2011,2.92,0.02
+"130","Alabama",2012,2.55,0.02
+"230","Alaska",2012,2.8,0.03
+"330","Arizona",2012,2.68,0.02
+"430","Arkansas",2012,2.51,0.02
+"519","California",2012,2.97,0.02
+"69","Colorado",2012,2.54,0.01
+"79","Connecticut",2012,2.56,0.02
+"89","Delaware",2012,2.62,0.03
+"99","District of Columbia",2012,2.22,0.03
+"109","Florida",2012,2.62,0.02
+"1113","Georgia",2012,2.73,0.01
+"1211","Hawaii",2012,3.01,0.03
+"139","Idaho",2012,2.69,0.03
+"149","Illinois",2012,2.64,0.02
+"159","Indiana",2012,2.56,0.01
+"169","Iowa",2012,2.42,0.01
+"179","Kansas",2012,2.52,0.01
+"189","Kentucky",2012,2.49,0.01
+"199","Louisiana",2012,2.6,0.01
+"209","Maine",2012,2.33,0.02
+"2113","Maryland",2012,2.66,0.01
+"2211","Massachusetts",2012,2.54,0.02
+"239","Michigan",2012,2.53,0.01
+"249","Minnesota",2012,2.48,0.01
+"259","Mississippi",2012,2.65,0.02
+"269","Missouri",2012,2.48,0.02
+"279","Montana",2012,2.39,0.03
+"289","Nebraska",2012,2.46,0.02
+"299","Nevada",2012,2.7,0.03
+"309","New Hampshire",2012,2.47,0.03
+"3113","New Jersey",2012,2.71,0.01
+"3211","New Mexico",2012,2.67,0.02
+"339","New York",2012,2.62,0.01
+"349","North Carolina",2012,2.55,0.03
+"359","North Dakota",2012,2.32,0.03
+"369","Ohio",2012,2.47,0.02
+"379","Oklahoma",2012,2.56,0.01
+"389","Oregon",2012,2.51,0.02
+"399","Pennsylvania",2012,2.49,0.01
+"409","Rhode Island",2012,2.44,0.02
+"4113","South Carolina",2012,2.57,0.03
+"4211","South Dakota",2012,2.47,0.03
+"439","Tennessee",2012,2.54,0.01
+"449","Texas",2012,2.84,0.01
+"459","Utah",2012,3.14,0.03
+"469","Vermont",2012,2.32,0.03
+"479","Virginia",2012,2.61,0.01
+"489","Washington",2012,2.56,0.01
+"499","West Virginia",2012,2.44,0.03
+"509","Wisconsin",2012,2.44,0.02
+"5110","Wyoming",2012,2.52,0.04
+"527","Puerto Rico",2012,2.87,0.02
+"140","Alabama",2013,2.59,0.02
+"240","Alaska",2013,2.88,0.03
+"340","Arizona",2013,2.7,0.02
+"440","Arkansas",2013,2.56,0.03
+"520","California",2013,2.97,0.01
+"610","Colorado",2013,2.57,0.01
+"710","Connecticut",2013,2.6,0.02
+"810","Delaware",2013,2.66,0.03
+"910","District of Columbia",2013,2.23,0.03
+"1010","Florida",2013,2.65,0.01
+"1114","Georgia",2013,2.74,0.02
+"1212","Hawaii",2013,3.02,0.03
+"1310","Idaho",2013,2.69,0.03
+"1410","Illinois",2013,2.63,0.01
+"1510","Indiana",2013,2.55,0.02
+"1610","Iowa",2013,2.42,0.02
+"1710","Kansas",2013,2.53,0.02
+"1810","Kentucky",2013,2.5,0.02
+"1910","Louisiana",2013,2.6,0.02
+"2010","Maine",2013,2.36,0.03
+"2114","Maryland",2013,2.68,0.02
+"2212","Massachusetts",2013,2.54,0.01
+"2310","Michigan",2013,2.52,0.01
+"2410","Minnesota",2013,2.49,0.01
+"2510","Mississippi",2013,2.66,0.03
+"2610","Missouri",2013,2.48,0.01
+"2710","Montana",2013,2.43,0.03
+"2810","Nebraska",2013,2.49,0.02
+"2910","Nevada",2013,2.75,0.03
+"3010","New Hampshire",2013,2.47,0.02
+"3114","New Jersey",2013,2.74,0.01
+"3212","New Mexico",2013,2.71,0.02
+"3310","New York",2013,2.64,0.01
+"3410","North Carolina",2013,2.55,0.01
+"3510","North Dakota",2013,2.33,0.03
+"3610","Ohio",2013,2.47,0.02
+"3710","Oklahoma",2013,2.58,0.02
+"3810","Oregon",2013,2.52,0.01
+"3910","Pennsylvania",2013,2.5,0.01
+"4010","Rhode Island",2013,2.49,0.03
+"4114","South Carolina",2013,2.58,0.02
+"4212","South Dakota",2013,2.45,0.03
+"4310","Tennessee",2013,2.55,0.02
+"4410","Texas",2013,2.84,0.01
+"4510","Utah",2013,3.17,0.02
+"4610","Vermont",2013,2.37,0.03
+"4710","Virginia",2013,2.62,0.01
+"4810","Washington",2013,2.58,0.02
+"4910","West Virginia",2013,2.44,0.02
+"5010","Wisconsin",2013,2.44,0.02
+"5111","Wyoming",2013,2.54,0.04
+"528","Puerto Rico",2013,2.85,0.02
+"150","Alabama",2014,2.57,0.02
+"250","Alaska",2014,2.84,0.04
+"350","Arizona",2014,2.71,0.01
+"450","Arkansas",2014,2.55,0.02
+"529","California",2014,2.98,0.01
+"611","Colorado",2014,2.57,0.01
+"711","Connecticut",2014,2.57,0.02
+"811","Delaware",2014,2.6,0.03
+"911","District of Columbia",2014,2.23,0.03
+"1011","Florida",2014,2.66,0.02
+"1115","Georgia",2014,2.74,0.01
+"1213","Hawaii",2014,3.05,0.03
+"1311","Idaho",2014,2.71,0.02
+"1411","Illinois",2014,2.64,0.02
+"1511","Indiana",2014,2.56,0.01
+"1611","Iowa",2014,2.42,0.01
+"1711","Kansas",2014,2.55,0.03
+"1811","Kentucky",2014,2.5,0.01
+"1911","Louisiana",2014,2.63,0.02
+"2011","Maine",2014,2.35,0.03
+"2115","Maryland",2014,2.7,0.02
+"2213","Massachusetts",2014,2.55,0.01
+"2311","Michigan",2014,2.53,0.03
+"2411","Minnesota",2014,2.5,0.01
+"2511","Mississippi",2014,2.64,0.02
+"2611","Missouri",2014,2.5,0.01
+"2711","Montana",2014,2.42,0.02
+"2811","Nebraska",2014,2.47,0.02
+"2911","Nevada",2014,2.74,0.02
+"3011","New Hampshire",2014,2.47,0.03
+"3115","New Jersey",2014,2.74,0.01
+"3213","New Mexico",2014,2.68,0.03
+"3311","New York",2014,2.63,0.01
+"3411","North Carolina",2014,2.56,0.02
+"3511","North Dakota",2014,2.33,0.03
+"3611","Ohio",2014,2.46,0.02
+"3711","Oklahoma",2014,2.58,0.01
+"3811","Oregon",2014,2.53,0.01
+"3911","Pennsylvania",2014,2.5,0.01
+"4011","Rhode Island",2014,2.47,0.02
+"4115","South Carolina",2014,2.57,0.02
+"4213","South Dakota",2014,2.45,0.02
+"4311","Tennessee",2014,2.55,0.02
+"4411","Texas",2014,2.84,0.01
+"4511","Utah",2014,3.16,0.03
+"4611","Vermont",2014,2.34,0.03
+"4711","Virginia",2014,2.62,0.01
+"4811","Washington",2014,2.58,0.01
+"4911","West Virginia",2014,2.45,0.02
+"5011","Wisconsin",2014,2.43,0.01
+"5112","Wyoming",2014,2.45,0.03
+"5210","Puerto Rico",2014,2.84,0.03
+"160","Alabama",2015,2.57,0.02
+"260","Alaska",2015,2.84,0.03
+"360","Arizona",2015,2.71,0.02
+"460","Arkansas",2015,2.53,0.02
+"530","California",2015,2.97,0.01
+"612","Colorado",2015,2.57,0.02
+"712","Connecticut",2015,2.59,0.03
+"812","Delaware",2015,2.61,0.03
+"912","District of Columbia",2015,2.24,0.03
+"1012","Florida",2015,2.66,0.01
+"1116","Georgia",2015,2.72,0.01
+"1214","Hawaii",2015,3.11,0.03
+"1312","Idaho",2015,2.72,0.02
+"1412","Illinois",2015,2.62,0.01
+"1512","Indiana",2015,2.56,0.02
+"1612","Iowa",2015,2.42,0.01
+"1712","Kansas",2015,2.55,0.02
+"1812","Kentucky",2015,2.5,0.02
+"1912","Louisiana",2015,2.61,0.02
+"2012","Maine",2015,2.37,0.03
+"2116","Maryland",2015,2.69,0.02
+"2214","Massachusetts",2015,2.56,0.02
+"2312","Michigan",2015,2.51,0.01
+"2412","Minnesota",2015,2.49,0.02
+"2512","Mississippi",2015,2.62,0.02
+"2612","Missouri",2015,2.49,0.02
+"2712","Montana",2015,2.42,0.02
+"2812","Nebraska",2015,2.48,0.02
+"2912","Nevada",2015,2.74,0.02
+"3012","New Hampshire",2015,2.49,0.03
+"3116","New Jersey",2015,2.75,0.01
+"3214","New Mexico",2015,2.68,0.02
+"3312","New York",2015,2.66,0.01
+"3412","North Carolina",2015,2.55,0.02
+"3512","North Dakota",2015,2.33,0.03
+"3612","Ohio",2015,2.45,0.01
+"3712","Oklahoma",2015,2.59,0.01
+"3812","Oregon",2015,2.54,0.02
+"3912","Pennsylvania",2015,2.5,0.02
+"4012","Rhode Island",2015,2.49,0.03
+"4116","South Carolina",2015,2.56,0.01
+"4214","South Dakota",2015,2.43,0.03
+"4312","Tennessee",2015,2.55,0.02
+"4412","Texas",2015,2.85,0.01
+"4512","Utah",2015,3.17,0.02
+"4612","Vermont",2015,2.36,0.03
+"4712","Virginia",2015,2.62,0.01
+"4812","Washington",2015,2.58,0.02
+"4912","West Virginia",2015,2.44,0.02
+"5012","Wisconsin",2015,2.42,0.02
+"5113","Wyoming",2015,2.5,0.04
+"5211","Puerto Rico",2015,2.81,0.02
+"170","Alabama",2016,2.56,0.02
+"270","Alaska",2016,2.87,0.04
+"370","Arizona",2016,2.69,0.02
+"470","Arkansas",2016,2.54,0.02
+"531","California",2016,2.97,0.01
+"613","Colorado",2016,2.57,0.01
+"713","Connecticut",2016,2.55,0.02
+"813","Delaware",2016,2.64,0.03
+"913","District of Columbia",2016,2.28,0.03
+"1013","Florida",2016,2.66,0.02
+"1117","Georgia",2016,2.73,0.02
+"1215","Hawaii",2016,3.04,0.04
+"1313","Idaho",2016,2.71,0.03
+"1413","Illinois",2016,2.59,0.01
+"1513","Indiana",2016,2.54,0.02
+"1613","Iowa",2016,2.43,0.02
+"1713","Kansas",2016,2.55,0.03
+"1813","Kentucky",2016,2.51,0.02
+"1913","Louisiana",2016,2.65,0.03
+"2013","Maine",2016,2.44,0.03
+"2117","Maryland",2016,2.68,0.02
+"2215","Massachusetts",2016,2.54,0.01
+"2313","Michigan",2016,2.5,0.02
+"2413","Minnesota",2016,2.51,0.02
+"2513","Mississippi",2016,2.65,0.02
+"2613","Missouri",2016,2.49,0.02
+"2713","Montana",2016,2.44,0.03
+"2813","Nebraska",2016,2.48,0.02
+"2913","Nevada",2016,2.75,0.02
+"3013","New Hampshire",2016,2.48,0.03
+"3117","New Jersey",2016,2.74,0.01
+"3215","New Mexico",2016,2.69,0.03
+"3313","New York",2016,2.66,0.01
+"3413","North Carolina",2016,2.55,0.02
+"3513","North Dakota",2016,2.32,0.03
+"3613","Ohio",2016,2.44,0.01
+"3713","Oklahoma",2016,2.6,0.02
+"3813","Oregon",2016,2.55,0.02
+"3913","Pennsylvania",2016,2.5,0.01
+"4013","Rhode Island",2016,2.48,0.03
+"4117","South Carolina",2016,2.57,0.02
+"4215","South Dakota",2016,2.49,0.03
+"4313","Tennessee",2016,2.54,0.01
+"4413","Texas",2016,2.86,0.01
+"4513","Utah",2016,3.19,0.03
+"4613","Vermont",2016,2.35,0.02
+"4713","Virginia",2016,2.62,0.02
+"4813","Washington",2016,2.58,0.01
+"4913","West Virginia",2016,2.47,0.02
+"5013","Wisconsin",2016,2.42,0.01
+"5114","Wyoming",2016,2.55,0.05
+"5212","Puerto Rico",2016,2.79,0.02
+"180","Alabama",2017,2.58,0.02
+"280","Alaska",2017,2.84,0.04
+"380","Arizona",2017,2.69,0.02
+"480","Arkansas",2017,2.53,0.02
+"532","California",2017,2.98,0.01
+"614","Colorado",2017,2.57,0.02
+"714","Connecticut",2017,2.56,0.01
+"814","Delaware",2017,2.62,0.03
+"914","District of Columbia",2017,2.32,0.03
+"1014","Florida",2017,2.67,0.01
+"1118","Georgia",2017,2.72,0.02
+"1216","Hawaii",2017,3.02,0.03
+"1314","Idaho",2017,2.7,0.03
+"1414","Illinois",2017,2.6,0.01
+"1514","Indiana",2017,2.53,0.01
+"1614","Iowa",2017,2.42,0.01
+"1714","Kansas",2017,2.51,0.02
+"1814","Kentucky",2017,2.51,0.03
+"1914","Louisiana",2017,2.62,0.02
+"2014","Maine",2017,2.4,0.03
+"2118","Maryland",2017,2.68,0.01
+"2216","Massachusetts",2017,2.54,0.02
+"2314","Michigan",2017,2.48,0.02
+"2414","Minnesota",2017,2.52,0.02
+"2514","Mississippi",2017,2.65,0.03
+"2614","Missouri",2017,2.49,0.02
+"2714","Montana",2017,2.41,0.03
+"2814","Nebraska",2017,2.48,0.03
+"2914","Nevada",2017,2.7,0.02
+"3014","New Hampshire",2017,2.46,0.02
+"3118","New Jersey",2017,2.74,0.01
+"3216","New Mexico",2017,2.66,0.02
+"3314","New York",2017,2.64,0.01
+"3414","North Carolina",2017,2.53,0.01
+"3514","North Dakota",2017,2.31,0.03
+"3614","Ohio",2017,2.43,0.01
+"3714","Oklahoma",2017,2.6,0.02
+"3814","Oregon",2017,2.53,0.02
+"3914","Pennsylvania",2017,2.47,0.01
+"4014","Rhode Island",2017,2.49,0.03
+"4118","South Carolina",2017,2.57,0.02
+"4216","South Dakota",2017,2.43,0.03
+"4314","Tennessee",2017,2.53,0.02
+"4414","Texas",2017,2.88,0.01
+"4514","Utah",2017,3.13,0.02
+"4614","Vermont",2017,2.33,0.03
+"4714","Virginia",2017,2.64,0.03
+"4814","Washington",2017,2.56,0.02
+"4914","West Virginia",2017,2.47,0.02
+"5014","Wisconsin",2017,2.4,0.02
+"5115","Wyoming",2017,2.5,0.04
+"5213","Puerto Rico",2017,2.77,0.03
+"190","Maine",2018,2.28,0.02
+"290","North Carolina",2018,2.52,0.01
+"390","Mississippi",2018,2.61,0.02
+"490","Connecticut",2018,2.51,0.01
+"533","Texas",2018,2.87,0.01
+"615","Maryland",2018,2.66,0.01
+"715","Alabama",2018,2.57,0.02
+"815","Virginia",2018,2.61,0.01
+"915","New Jersey",2018,2.69,0.01
+"1015","South Carolina",2018,2.57,0.02
+"1119","Georgia",2018,2.7,0.01
+"1217","Louisiana",2018,2.61,0.02
+"1315","New Hampshire",2018,2.47,0.03
+"1415","Rhode Island",2018,2.5,0.03
+"1515","Delaware",2018,2.56,0.03
+"1615","Florida",2018,2.67,0.01
+"1715","Massachusetts",2018,2.54,0.01
+"1815","New York",2018,2.57,0.01

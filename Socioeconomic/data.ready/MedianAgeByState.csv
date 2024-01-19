@@ -1,0 +1,937 @@
+"state","variable","value"
+"United States","1980",30
+"Alabama","1980",29.2
+"Alaska","1980",26
+"California","1980",29.9
+"Connecticut","1980",32
+"Delaware","1980",29.7
+"Florida","1980",34.7
+"Georgia","1980",28.6
+"Hawaii","1980",28.3
+"Louisiana","1980",27.3
+"Maine","1980",30.4
+"Maryland","1980",30.3
+"Massachusetts","1980",31.1
+"Mississippi","1980",27.6
+"New Hampshire","1980",30.1
+"New Jersey","1980",32.2
+"New York","1980",31.8
+"North Carolina","1980",29.6
+"Oregon","1980",30.2
+"Rhode Island","1980",31.7
+"South Carolina","1980",28
+"Texas","1980",28
+"Virginia","1980",29.8
+"Washington","1980",29.8
+"United States","1981",30.3
+"Alabama","1981",29.6
+"Alaska","1981",26.7
+"California","1981",30.1
+"Connecticut","1981",32.4
+"Delaware","1981",30.1
+"Florida","1981",34.7
+"Georgia","1981",29
+"Hawaii","1981",28.8
+"Louisiana","1981",27.6
+"Maine","1981",30.8
+"Maryland","1981",30.7
+"Massachusetts","1981",31.4
+"Mississippi","1981",27.9
+"New Hampshire","1981",30.6
+"New Jersey","1981",32.5
+"New York","1981",32.1
+"North Carolina","1981",29.9
+"Oregon","1981",30.6
+"Rhode Island","1981",31.9
+"South Carolina","1981",28.5
+"Texas","1981",28.3
+"Virginia","1981",30.1
+"Washington","1981",30.1
+"United States","1982",30.5
+"Alabama","1982",29.9
+"Alaska","1982",27.4
+"California","1982",30.2
+"Connecticut","1982",32.7
+"Delaware","1982",30.3
+"Florida","1982",34.9
+"Georgia","1982",29.3
+"Hawaii","1982",29.3
+"Louisiana","1982",27.9
+"Maine","1982",31.2
+"Maryland","1982",31
+"Massachusetts","1982",31.6
+"Mississippi","1982",28.1
+"New Hampshire","1982",30.9
+"New Jersey","1982",32.8
+"New York","1982",32.3
+"North Carolina","1982",30.3
+"Oregon","1982",31.1
+"Rhode Island","1982",32.1
+"South Carolina","1982",28.8
+"Texas","1982",28.6
+"Virginia","1982",30.4
+"Washington","1982",30.5
+"United States","1983",30.8
+"Alabama","1983",30.3
+"Alaska","1983",27.8
+"California","1983",30.3
+"Connecticut","1983",32.9
+"Delaware","1983",30.5
+"Florida","1983",35.1
+"Georgia","1983",29.6
+"Hawaii","1983",29.6
+"Louisiana","1983",28.2
+"Maine","1983",31.5
+"Maryland","1983",31.3
+"Massachusetts","1983",31.8
+"Mississippi","1983",28.3
+"New Hampshire","1983",31.3
+"New Jersey","1983",33.1
+"New York","1983",32.4
+"North Carolina","1983",30.6
+"Oregon","1983",31.5
+"Rhode Island","1983",32.3
+"South Carolina","1983",29.2
+"Texas","1983",28.9
+"Virginia","1983",30.7
+"Washington","1983",30.8
+"United States","1984",31.1
+"Alabama","1984",30.6
+"Alaska","1984",28.2
+"California","1984",30.5
+"Connecticut","1984",33.1
+"Delaware","1984",30.8
+"Florida","1984",35.3
+"Georgia","1984",30
+"Hawaii","1984",30
+"Louisiana","1984",28.5
+"Maine","1984",31.9
+"Maryland","1984",31.6
+"Massachusetts","1984",32.1
+"Mississippi","1984",28.6
+"New Hampshire","1984",31.6
+"New Jersey","1984",33.3
+"New York","1984",32.6
+"North Carolina","1984",30.9
+"Oregon","1984",32
+"Rhode Island","1984",32.6
+"South Carolina","1984",29.5
+"Texas","1984",29.1
+"Virginia","1984",31
+"Washington","1984",31.2
+"United States","1985",31.4
+"Alabama","1985",31
+"Alaska","1985",28.4
+"California","1985",30.7
+"Connecticut","1985",33.3
+"Delaware","1985",31.1
+"Florida","1985",35.5
+"Georgia","1985",30.2
+"Hawaii","1985",30.3
+"Louisiana","1985",28.8
+"Maine","1985",32.3
+"Maryland","1985",31.8
+"Massachusetts","1985",32.3
+"Mississippi","1985",28.9
+"New Hampshire","1985",31.9
+"New Jersey","1985",33.5
+"New York","1985",32.8
+"North Carolina","1985",31.3
+"Oregon","1985",32.5
+"Rhode Island","1985",32.8
+"South Carolina","1985",30
+"Texas","1985",29.4
+"Virginia","1985",31.3
+"Washington","1985",31.5
+"United States","1986",31.7
+"Alabama","1986",31.3
+"Alaska","1986",28.6
+"California","1986",30.8
+"Connecticut","1986",33.5
+"Delaware","1986",31.4
+"Florida","1986",35.6
+"Georgia","1986",30.5
+"Hawaii","1986",30.8
+"Louisiana","1986",29.3
+"Maine","1986",32.6
+"Maryland","1986",32.1
+"Massachusetts","1986",32.5
+"Mississippi","1986",29.3
+"New Hampshire","1986",32.1
+"New Jersey","1986",33.7
+"New York","1986",33
+"North Carolina","1986",31.6
+"Oregon","1986",33
+"Rhode Island","1986",33
+"South Carolina","1986",30.3
+"Texas","1986",29.6
+"Virginia","1986",31.5
+"Washington","1986",31.9
+"United States","1987",32
+"Alabama","1987",31.7
+"Alaska","1987",28.6
+"California","1987",31
+"Connecticut","1987",33.7
+"Delaware","1987",31.8
+"Florida","1987",35.7
+"Georgia","1987",30.8
+"Hawaii","1987",31.2
+"Louisiana","1987",29.6
+"Maine","1987",33
+"Maryland","1987",32.3
+"Massachusetts","1987",32.7
+"Mississippi","1987",29.8
+"New Hampshire","1987",32.3
+"New Jersey","1987",33.8
+"New York","1987",33.2
+"North Carolina","1987",32
+"Oregon","1987",33.5
+"Rhode Island","1987",33.2
+"South Carolina","1987",30.7
+"Texas","1987",29.9
+"Virginia","1987",31.7
+"Washington","1987",32.2
+"United States","1988",32.3
+"Alabama","1988",32.1
+"Alaska","1988",29
+"California","1988",31.1
+"Connecticut","1988",33.9
+"Delaware","1988",32.1
+"Florida","1988",35.9
+"Georgia","1988",31
+"Hawaii","1988",31.7
+"Louisiana","1988",30
+"Maine","1988",33.3
+"Maryland","1988",32.5
+"Massachusetts","1988",33
+"Mississippi","1988",30.3
+"New Hampshire","1988",32.4
+"New Jersey","1988",34
+"New York","1988",33.3
+"North Carolina","1988",32.4
+"Oregon","1988",33.9
+"Rhode Island","1988",33.4
+"South Carolina","1988",31.1
+"Texas","1988",30.1
+"Virginia","1988",32
+"Washington","1988",32.5
+"United States","1989",32.6
+"Alabama","1989",32.6
+"Alaska","1989",29.2
+"California","1989",31.3
+"Connecticut","1989",34.1
+"Delaware","1989",32.5
+"Florida","1989",36
+"Georgia","1989",31.2
+"Hawaii","1989",32.1
+"Louisiana","1989",30.5
+"Maine","1989",33.6
+"Maryland","1989",32.7
+"Massachusetts","1989",33.2
+"Mississippi","1989",30.7
+"New Hampshire","1989",32.6
+"New Jersey","1989",34.2
+"New York","1989",33.5
+"North Carolina","1989",32.7
+"Oregon","1989",34.3
+"Rhode Island","1989",33.7
+"South Carolina","1989",31.5
+"Texas","1989",30.5
+"Virginia","1989",32.3
+"Washington","1989",32.8
+"United States","1990",32.8
+"Alabama","1990",32.9
+"Alaska","1990",29.3
+"California","1990",31.3
+"Connecticut","1990",34.3
+"Delaware","1990",32.7
+"Florida","1990",36.2
+"Georgia","1990",31.4
+"Hawaii","1990",32.5
+"Louisiana","1990",30.9
+"Maine","1990",33.8
+"Maryland","1990",32.9
+"Massachusetts","1990",33.4
+"Mississippi","1990",31.1
+"New Hampshire","1990",32.7
+"New Jersey","1990",34.3
+"New York","1990",33.7
+"North Carolina","1990",33
+"Oregon","1990",34.5
+"Rhode Island","1990",33.8
+"South Carolina","1990",31.9
+"Texas","1990",30.6
+"Virginia","1990",32.5
+"Washington","1990",33
+"United States","1991",33.1
+"Alabama","1991",33.5
+"Alaska","1991",29.6
+"California","1991",31.4
+"Connecticut","1991",34.7
+"Delaware","1991",33.1
+"Florida","1991",36.3
+"Georgia","1991",31.8
+"Hawaii","1991",33.1
+"Louisiana","1991",31.5
+"Maine","1991",34.4
+"Maryland","1991",33.2
+"Massachusetts","1991",33.8
+"Mississippi","1991",31.7
+"New Hampshire","1991",33.3
+"New Jersey","1991",34.7
+"New York","1991",34
+"North Carolina","1991",33.4
+"Oregon","1991",34.8
+"Rhode Island","1991",34.2
+"South Carolina","1991",32.4
+"Texas","1991",31
+"Virginia","1991",32.9
+"Washington","1991",33.3
+"United States","1992",33.4
+"Alabama","1992",33.8
+"Alaska","1992",30.2
+"California","1992",31.7
+"Connecticut","1992",35
+"Delaware","1992",33.5
+"Florida","1992",36.5
+"Georgia","1992",32.1
+"Hawaii","1992",33.5
+"Louisiana","1992",31.8
+"Maine","1992",34.8
+"Maryland","1992",33.6
+"Massachusetts","1992",34.2
+"Mississippi","1992",31.9
+"New Hampshire","1992",33.7
+"New Jersey","1992",34.9
+"New York","1992",34.2
+"North Carolina","1992",33.6
+"Oregon","1992",35.1
+"Rhode Island","1992",34.5
+"South Carolina","1992",32.8
+"Texas","1992",31.3
+"Virginia","1992",33.2
+"Washington","1992",33.6
+"United States","1993",33.7
+"Alabama","1993",34.1
+"Alaska","1993",30.5
+"California","1993",32
+"Connecticut","1993",35.3
+"Delaware","1993",33.9
+"Florida","1993",36.8
+"Georgia","1993",32.4
+"Hawaii","1993",33.8
+"Louisiana","1993",32.1
+"Maine","1993",35.3
+"Maryland","1993",33.9
+"Massachusetts","1993",34.5
+"Mississippi","1993",32.1
+"New Hampshire","1993",34.1
+"New Jersey","1993",35.2
+"New York","1993",34.4
+"North Carolina","1993",33.9
+"Oregon","1993",35.5
+"Rhode Island","1993",34.8
+"South Carolina","1993",33.2
+"Texas","1993",31.6
+"Virginia","1993",33.6
+"Washington","1993",34
+"United States","1994",34.1
+"Alabama","1994",34.4
+"Alaska","1994",30.9
+"California","1994",32.2
+"Connecticut","1994",35.6
+"Delaware","1994",34.2
+"Florida","1994",37.1
+"Georgia","1994",32.7
+"Hawaii","1994",34.2
+"Louisiana","1994",32.4
+"Maine","1994",35.7
+"Maryland","1994",34.2
+"Massachusetts","1994",34.8
+"Mississippi","1994",32.3
+"New Hampshire","1994",34.4
+"New Jersey","1994",35.4
+"New York","1994",34.7
+"North Carolina","1994",34.2
+"Oregon","1994",35.8
+"Rhode Island","1994",35.1
+"South Carolina","1994",33.6
+"Texas","1994",31.9
+"Virginia","1994",33.9
+"Washington","1994",34.3
+"United States","1995",34.3
+"Alabama","1995",34.6
+"Alaska","1995",31.4
+"California","1995",32.4
+"Connecticut","1995",35.9
+"Delaware","1995",34.6
+"Florida","1995",37.4
+"Georgia","1995",33
+"Hawaii","1995",34.7
+"Louisiana","1995",32.8
+"Maine","1995",36.1
+"Maryland","1995",34.6
+"Massachusetts","1995",35.1
+"Mississippi","1995",32.6
+"New Hampshire","1995",34.8
+"New Jersey","1995",35.7
+"New York","1995",34.9
+"North Carolina","1995",34.5
+"Oregon","1995",36
+"Rhode Island","1995",35.4
+"South Carolina","1995",34.1
+"Texas","1995",32.2
+"Virginia","1995",34.2
+"Washington","1995",34.6
+"United States","1996",34.7
+"Alabama","1996",35
+"Alaska","1996",31.7
+"California","1996",32.7
+"Connecticut","1996",36.3
+"Delaware","1996",35
+"Florida","1996",37.7
+"Georgia","1996",33.3
+"Hawaii","1996",35.2
+"Louisiana","1996",33.1
+"Maine","1996",36.6
+"Maryland","1996",35
+"Massachusetts","1996",35.5
+"Mississippi","1996",32.9
+"New Hampshire","1996",35.2
+"New Jersey","1996",36
+"New York","1996",35.3
+"North Carolina","1996",34.8
+"Oregon","1996",36.3
+"Rhode Island","1996",35.8
+"South Carolina","1996",34.4
+"Texas","1996",32.4
+"Virginia","1996",34.6
+"Washington","1996",34.9
+"United States","1997",34.9
+"Alabama","1997",35.2
+"Alaska","1997",31.7
+"California","1997",33
+"Connecticut","1997",36.7
+"Delaware","1997",35.3
+"Florida","1997",38
+"Georgia","1997",33.5
+"Hawaii","1997",35.7
+"Louisiana","1997",33.5
+"Maine","1997",37
+"Maryland","1997",35.3
+"Massachusetts","1997",35.9
+"Mississippi","1997",33.2
+"New Hampshire","1997",35.5
+"New Jersey","1997",36.4
+"New York","1997",35.6
+"North Carolina","1997",35
+"Oregon","1997",36.5
+"Rhode Island","1997",36.1
+"South Carolina","1997",34.8
+"Texas","1997",32.7
+"Virginia","1997",34.9
+"Washington","1997",35.1
+"United States","1998",35.2
+"Alabama","1998",35.6
+"Alaska","1998",31.4
+"California","1998",33.3
+"Connecticut","1998",36.8
+"Delaware","1998",35.6
+"Florida","1998",38.4
+"Georgia","1998",33.7
+"Hawaii","1998",36.3
+"Louisiana","1998",33.8
+"Maine","1998",37.4
+"Maryland","1998",35.5
+"Massachusetts","1998",36.2
+"Mississippi","1998",33.4
+"New Hampshire","1998",35.7
+"New Jersey","1998",36.7
+"New York","1998",36
+"North Carolina","1998",35.2
+"Oregon","1998",36.7
+"Rhode Island","1998",36.4
+"South Carolina","1998",35.2
+"Texas","1998",32.9
+"Virginia","1998",35.1
+"Washington","1998",35.3
+"United States","1999",35.5
+"Alabama","1999",36
+"Alaska","1999",30.9
+"California","1999",33.6
+"Connecticut","1999",37
+"Delaware","1999",35.9
+"Florida","1999",38.7
+"Georgia","1999",34
+"Hawaii","1999",36.9
+"Louisiana","1999",34.1
+"Maine","1999",37.8
+"Maryland","1999",35.7
+"Massachusetts","1999",36.5
+"Mississippi","1999",33.7
+"New Hampshire","1999",35.9
+"New Jersey","1999",37
+"New York","1999",36.4
+"North Carolina","1999",35.5
+"Oregon","1999",36.9
+"Rhode Island","1999",36.6
+"South Carolina","1999",35.5
+"Texas","1999",33
+"Virginia","1999",35.4
+"Washington","1999",35.5
+"United States","2000",35.3
+"Alabama","2000",35.8
+"Alaska","2000",32.4
+"California","2000",33.3
+"Connecticut","2000",37.4
+"Delaware","2000",36
+"Florida","2000",38.7
+"Georgia","2000",33.4
+"Hawaii","2000",36.2
+"Louisiana","2000",34
+"Maine","2000",38.6
+"Maryland","2000",36
+"Massachusetts","2000",36.5
+"Mississippi","2000",33.8
+"New Hampshire","2000",37.1
+"New Jersey","2000",36.7
+"New York","2000",35.9
+"North Carolina","2000",35.3
+"Oregon","2000",36.3
+"Rhode Island","2000",36.7
+"South Carolina","2000",35.4
+"Texas","2000",32.3
+"Virginia","2000",35.7
+"Washington","2000",35.3
+"United States","2001",35.6
+"Alabama","2001",36.2
+"Alaska","2001",32.7
+"California","2001",33.5
+"Connecticut","2001",37.8
+"Delaware","2001",36.4
+"Florida","2001",39
+"Georgia","2001",33.5
+"Hawaii","2001",36.6
+"Louisiana","2001",34.4
+"Maine","2001",39.2
+"Maryland","2001",36.3
+"Massachusetts","2001",36.8
+"Mississippi","2001",34.1
+"New Hampshire","2001",37.5
+"New Jersey","2001",37
+"New York","2001",36.2
+"North Carolina","2001",35.6
+"Oregon","2001",36.6
+"Rhode Island","2001",37
+"South Carolina","2001",35.8
+"Texas","2001",32.5
+"Virginia","2001",36
+"Washington","2001",35.6
+"United States","2002",35.8
+"Alabama","2002",36.5
+"Alaska","2002",32.9
+"California","2002",33.7
+"Connecticut","2002",38
+"Delaware","2002",36.7
+"Florida","2002",39.2
+"Georgia","2002",33.7
+"Hawaii","2002",36.9
+"Louisiana","2002",34.6
+"Maine","2002",39.5
+"Maryland","2002",36.6
+"Massachusetts","2002",37.1
+"Mississippi","2002",34.4
+"New Hampshire","2002",37.9
+"New Jersey","2002",37.3
+"New York","2002",36.5
+"North Carolina","2002",35.8
+"Oregon","2002",36.8
+"Rhode Island","2002",37.2
+"South Carolina","2002",36
+"Texas","2002",32.6
+"Virginia","2002",36.2
+"Washington","2002",35.8
+"United States","2003",35.9
+"Alabama","2003",36.7
+"Alaska","2003",33.1
+"California","2003",33.9
+"Connecticut","2003",38.3
+"Delaware","2003",37
+"Florida","2003",39.4
+"Georgia","2003",34
+"Hawaii","2003",37.2
+"Louisiana","2003",34.8
+"Maine","2003",39.9
+"Maryland","2003",36.8
+"Massachusetts","2003",37.4
+"Mississippi","2003",34.6
+"New Hampshire","2003",38.2
+"New Jersey","2003",37.5
+"New York","2003",36.7
+"North Carolina","2003",36.1
+"Oregon","2003",37
+"Rhode Island","2003",37.5
+"South Carolina","2003",36.3
+"Texas","2003",32.8
+"Virginia","2003",36.4
+"Washington","2003",36
+"United States","2004",36.1
+"Alabama","2004",36.9
+"Alaska","2004",33.3
+"California","2004",34.1
+"Connecticut","2004",38.6
+"Delaware","2004",37.3
+"Florida","2004",39.6
+"Georgia","2004",34.1
+"Hawaii","2004",37.4
+"Louisiana","2004",34.9
+"Maine","2004",40.3
+"Maryland","2004",36.9
+"Massachusetts","2004",37.7
+"Mississippi","2004",34.8
+"New Hampshire","2004",38.7
+"New Jersey","2004",37.7
+"New York","2004",36.9
+"North Carolina","2004",36.2
+"Oregon","2004",37.3
+"Rhode Island","2004",37.7
+"South Carolina","2004",36.5
+"Texas","2004",33
+"Virginia","2004",36.5
+"Washington","2004",36.3
+"United States","2005",36.3
+"Alabama","2005",37
+"Alaska","2005",33.5
+"California","2005",34.4
+"Connecticut","2005",38.8
+"Delaware","2005",37.5
+"Florida","2005",39.8
+"Georgia","2005",34.4
+"Hawaii","2005",37.5
+"Louisiana","2005",35.1
+"Maine","2005",40.7
+"Maryland","2005",37.1
+"Massachusetts","2005",38
+"Mississippi","2005",35.1
+"New Hampshire","2005",39
+"New Jersey","2005",37.9
+"New York","2005",37.1
+"North Carolina","2005",36.4
+"Oregon","2005",37.5
+"Rhode Island","2005",37.9
+"South Carolina","2005",36.7
+"Texas","2005",33.1
+"Virginia","2005",36.6
+"Washington","2005",36.5
+"United States","2006",36.5
+"Alabama","2006",37.1
+"Alaska","2006",33.6
+"California","2006",34.6
+"Connecticut","2006",39.1
+"Delaware","2006",37.8
+"Florida","2006",39.8
+"Georgia","2006",34.6
+"Hawaii","2006",37.6
+"Louisiana","2006",35.9
+"Maine","2006",41.2
+"Maryland","2006",37.2
+"Massachusetts","2006",38.2
+"Mississippi","2006",35.4
+"New Hampshire","2006",39.4
+"New Jersey","2006",38.1
+"New York","2006",37.3
+"North Carolina","2006",36.6
+"Oregon","2006",37.7
+"Rhode Island","2006",38.3
+"South Carolina","2006",37
+"Texas","2006",33.2
+"Virginia","2006",36.8
+"Washington","2006",36.7
+"United States","2007",36.7
+"Alabama","2007",37.3
+"Alaska","2007",33.8
+"California","2007",34.7
+"Connecticut","2007",39.3
+"Delaware","2007",38
+"Florida","2007",40
+"Georgia","2007",34.8
+"Hawaii","2007",38
+"Louisiana","2007",35.9
+"Maine","2007",41.6
+"Maryland","2007",37.4
+"Massachusetts","2007",38.4
+"Mississippi","2007",35.5
+"New Hampshire","2007",39.9
+"New Jersey","2007",38.3
+"New York","2007",37.6
+"North Carolina","2007",36.9
+"Oregon","2007",37.8
+"Rhode Island","2007",38.6
+"South Carolina","2007",37.2
+"Texas","2007",33.3
+"Virginia","2007",37
+"Washington","2007",37
+"United States","2008",36.9
+"Alabama","2008",37.5
+"Alaska","2008",33.8
+"California","2008",34.9
+"Connecticut","2008",39.5
+"Delaware","2008",38.3
+"Florida","2008",40.3
+"Georgia","2008",35
+"Hawaii","2008",38.2
+"Louisiana","2008",35.9
+"Maine","2008",42
+"Maryland","2008",37.7
+"Massachusetts","2008",38.7
+"Mississippi","2008",35.7
+"New Hampshire","2008",40.3
+"New Jersey","2008",38.5
+"New York","2008",37.7
+"North Carolina","2008",37
+"Oregon","2008",38
+"Rhode Island","2008",38.8
+"South Carolina","2008",37.5
+"Texas","2008",33.4
+"Virginia","2008",37.2
+"Washington","2008",37.1
+"United States","2009",37.1
+"Alabama","2009",37.7
+"Alaska","2009",34.1
+"California","2009",35
+"Connecticut","2009",39.8
+"Delaware","2009",38.6
+"Florida","2009",40.5
+"Georgia","2009",35.1
+"Hawaii","2009",38.4
+"Louisiana","2009",35.9
+"Maine","2009",42.4
+"Maryland","2009",37.9
+"Massachusetts","2009",38.9
+"Mississippi","2009",35.9
+"New Hampshire","2009",40.8
+"New Jersey","2009",38.8
+"New York","2009",37.9
+"North Carolina","2009",37.2
+"Oregon","2009",38.2
+"Rhode Island","2009",39.2
+"South Carolina","2009",37.7
+"Texas","2009",33.5
+"Virginia","2009",37.4
+"Washington","2009",37.2
+"United States","2010",37.2
+"Alabama","2010",37.9
+"Alaska","2010",33.8
+"California","2010",35.2
+"Connecticut","2010",40
+"Delaware","2010",38.8
+"Florida","2010",40.7
+"Georgia","2010",35.3
+"Hawaii","2010",38.6
+"Louisiana","2010",35.8
+"Maine","2010",42.7
+"Maryland","2010",38
+"Massachusetts","2010",39.1
+"Mississippi","2010",36
+"New Hampshire","2010",41.1
+"New Jersey","2010",39
+"New York","2010",38
+"North Carolina","2010",37.4
+"Oregon","2010",38.4
+"Rhode Island","2010",39.4
+"South Carolina","2010",37.9
+"Texas","2010",33.6
+"Virginia","2010",37.5
+"Washington","2010",37.3
+"United States","2011",37.3
+"Alabama","2011",38.1
+"Alaska","2011",33.7
+"California","2011",35.4
+"Connecticut","2011",40.3
+"Delaware","2011",39.1
+"Florida","2011",41.1
+"Georgia","2011",35.6
+"Hawaii","2011",38.6
+"Louisiana","2011",35.9
+"Maine","2011",43.2
+"Maryland","2011",38.1
+"Massachusetts","2011",39.2
+"Mississippi","2011",36.2
+"New Hampshire","2011",41.6
+"New Jersey","2011",39.1
+"New York","2011",38
+"North Carolina","2011",37.6
+"Oregon","2011",38.6
+"Rhode Island","2011",39.6
+"South Carolina","2011",38.2
+"Texas","2011",33.8
+"Virginia","2011",37.5
+"Washington","2011",37.4
+"United States","2012",37.5
+"Alabama","2012",38.3
+"Alaska","2012",33.7
+"California","2012",35.6
+"Connecticut","2012",40.5
+"Delaware","2012",39.3
+"Florida","2012",41.3
+"Georgia","2012",35.8
+"Hawaii","2012",38.5
+"Louisiana","2012",36
+"Maine","2012",43.5
+"Maryland","2012",38.2
+"Massachusetts","2012",39.3
+"Mississippi","2012",36.3
+"New Hampshire","2012",42
+"New Jersey","2012",39.3
+"New York","2012",38.1
+"North Carolina","2012",37.9
+"Oregon","2012",38.8
+"Rhode Island","2012",39.8
+"South Carolina","2012",38.4
+"Texas","2012",33.9
+"Virginia","2012",37.6
+"Washington","2012",37.5
+"United States","2013",37.6
+"Alabama","2013",38.4
+"Alaska","2013",33.6
+"California","2013",35.8
+"Connecticut","2013",40.6
+"Delaware","2013",39.5
+"Florida","2013",41.5
+"Georgia","2013",36
+"Hawaii","2013",38.5
+"Louisiana","2013",36.1
+"Maine","2013",43.8
+"Maryland","2013",38.3
+"Massachusetts","2013",39.3
+"Mississippi","2013",36.5
+"New Hampshire","2013",42.4
+"New Jersey","2013",39.4
+"New York","2013",38.2
+"North Carolina","2013",38.1
+"Oregon","2013",38.9
+"Rhode Island","2013",39.9
+"South Carolina","2013",38.6
+"Texas","2013",34
+"Virginia","2013",37.7
+"Washington","2013",37.6
+"United States","2014",37.7
+"Alabama","2014",38.6
+"Alaska","2014",33.7
+"California","2014",36
+"Connecticut","2014",40.7
+"Delaware","2014",39.7
+"Florida","2014",41.7
+"Georgia","2014",36.2
+"Hawaii","2014",38.6
+"Louisiana","2014",36.2
+"Maine","2014",44.1
+"Maryland","2014",38.3
+"Massachusetts","2014",39.4
+"Mississippi","2014",36.7
+"New Hampshire","2014",42.7
+"New Jersey","2014",39.5
+"New York","2014",38.3
+"North Carolina","2014",38.3
+"Oregon","2014",39.1
+"Rhode Island","2014",39.9
+"South Carolina","2014",38.8
+"Texas","2014",34.2
+"Virginia","2014",37.8
+"Washington","2014",37.6
+"United States","2015",37.8
+"Alabama","2015",38.7
+"Alaska","2015",33.9
+"California","2015",36.1
+"Connecticut","2015",40.8
+"Delaware","2015",39.9
+"Florida","2015",41.8
+"Georgia","2015",36.3
+"Hawaii","2015",38.6
+"Louisiana","2015",36.3
+"Maine","2015",44.4
+"Maryland","2015",38.4
+"Massachusetts","2015",30.4
+"Mississippi","2015",36.9
+"New Hampshire","2015",42.9
+"New Jersey","2015",39.7
+"New York","2015",38.4
+"North Carolina","2015",38.4
+"Oregon","2015",39.2
+"Rhode Island","2015",39.9
+"South Carolina","2015",39
+"Texas","2015",34.3
+"Virginia","2015",38
+"Washington","2015",37.7
+"United States","2016",37.9
+"Alabama","2016",38.9
+"Alaska","2016",34
+"California","2016",36.4
+"Connecticut","2016",40.9
+"Delaware","2016",40.2
+"Florida","2016",42
+"Georgia","2016",36.5
+"Hawaii","2016",38.8
+"Louisiana","2016",36.6
+"Maine","2016",44.6
+"Maryland","2016",38.5
+"Massachusetts","2016",39.4
+"Mississippi","2016",37.1
+"New Hampshire","2016",43
+"New Jersey","2016",39.7
+"New York","2016",38.6
+"North Carolina","2016",38.6
+"Oregon","2016",39.2
+"Rhode Island","2016",39.9
+"South Carolina","2016",39.2
+"Texas","2016",34.5
+"Virginia","2016",38.1
+"Washington","2016",37.6
+"United States","2017",38
+"Alabama","2017",39
+"Alaska","2017",34.3
+"California","2017",36.6
+"Connecticut","2017",40.9
+"Delaware","2017",40.5
+"Florida","2017",42.1
+"Georgia","2017",36.7
+"Hawaii","2017",39
+"Louisiana","2017",36.9
+"Maine","2017",44.8
+"Maryland","2017",38.7
+"Massachusetts","2017",39.4
+"Mississippi","2017",37.4
+"New Hampshire","2017",42.9
+"New Jersey","2017",39.9
+"New York","2017",38.8
+"North Carolina","2017",38.7
+"Oregon","2017",39.3
+"Rhode Island","2017",40
+"South Carolina","2017",39.4
+"Texas","2017",34.6
+"Virginia","2017",38.2
+"Washington","2017",37.7
+"United States","2018",NA
+"Alabama","2018",39.2
+"Alaska","2018",NA
+"California","2018",NA
+"Connecticut","2018",41
+"Delaware","2018",40.8
+"Florida","2018",42.2
+"Georgia","2018",36.9
+"Hawaii","2018",NA
+"Louisiana","2018",37.2
+"Maine","2018",44.9
+"Maryland","2018",38.8
+"Massachusetts","2018",39.4
+"Mississippi","2018",37.7
+"New Hampshire","2018",43
+"New Jersey","2018",40
+"New York","2018",39
+"North Carolina","2018",38.9
+"Oregon","2018",NA
+"Rhode Island","2018",40
+"South Carolina","2018",39.6
+"Texas","2018",34.8
+"Virginia","2018",38.4
+"Washington","2018",NA

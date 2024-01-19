@@ -1,0 +1,7 @@
+ID,Year,Wave,State,Area,Juristiction,Depth Allowed,Species,start_date,end_date,Bag_Limit,Agg_bag_limit,Agg_bag_limit_wt,Poss_limit,Min_Size,Max_Size,Bag_above_max_size,Bag_below_min,Mode,Gear Restriction,Other,Comments
+,1994,1,FL,NA,1,NA,Bluefish,01/01/94,02/28/94,10,9999,9999,10,12,9999,9999,9999,0,0,NA,NA
+,1994,2,FL,NA,1,NA,Bluefish,03/01/94,04/30/94,10,9999,9999,10,12,9999,9999,9999,0,0,NA,NA
+,1994,3,FL,NA,1,NA,Bluefish,05/01/94,06/30/94,10,9999,9999,10,12,9999,9999,9999,0,0,NA,NA
+,1994,4,FL,NA,1,NA,Bluefish,07/01/94,08/31/94,10,9999,9999,10,12,9999,9999,9999,0,0,NA,NA
+,1994,5,FL,NA,1,NA,Bluefish,09/01/94,10/31/94,10,9999,9999,10,12,9999,9999,9999,0,0,NA,NA
+,1994,6,FL,NA,1,NA,Bluefish,11/01/94,12/31/94,10,9999,9999,10,12,9999,9999,9999,0,0,NA,NA

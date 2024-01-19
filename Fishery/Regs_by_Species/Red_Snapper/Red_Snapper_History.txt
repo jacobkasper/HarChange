@@ -1,0 +1,466 @@
+Notice: This material is protected by copyright law and may only be used for personal, non-commercial and educational use. It may not be copied or shared with others.
+		Borrower: RAPID:UCW	5/15/2019 12:30 PM
+			(Please update within 24 hours)
+		Journal Title: Red snapper ecology	
+		and fisheries in the U.S. Gulf of	Call #: QL638.1-9 R43 2006
+	=	Mexico, edited by William F.	Location: Evans Library Stacks
+	-__	Patterson, Ill and others	
+			Shipping Address:
+		Volume: Issue:	NEW: Main Library
+		MonthlYear: 2007 Pages: 267 -	
+		284	Email:
+			Odyssey: 206.107.43.160
+		Article Author:	
+	=	Article Title: 15 A History of Red	Note:
+		Snapper Management in the Gulf of	
+		Mexico	
+			
+			
+			
+		ILL#: -14734680	
+		liii Dliii 11111 11111 11111 lID 11111 11111	liii liii liii	
+Fisheries Society Symposium 60:267-284,2007
+A History of Red Snapper Management
+in the Gulf of Mexico
+PETER B. HOOD', ANDREW J. STRELCHECK, AND PHIL STEELE
+MCLi A Pchorinc cr,ir
+Southeast Regional Office
+263 13th Avenue South, St. Petersburg, Florida 33701 USA
+Abstract.—The red snapper Luijanus campechanus fishery has been in existence in the Gulf of Mexico since the mid-1800s. However, management of this species did not begin until more than a century afterward. Federal management of the fisheries in the Gulf of Mexico began in 1976 with the passage of the Magnuson-Stevens Fishery Conservation and Management Act and the establishment of the Gulf of Mexico Fishery Management Council (Council). One of the first fishery management plans (FMP) developed by the Council was the Reef Fish FM?. This FM? was implemented in November 1984 and established the first red snapper size and bag limits. In 1988, the stock was determined to be overfished. Since then, the fishery has been managed to stay within total allowable catch levels in order to rebuild the stock. Management
+:	methods have included size limits, bag limits, season closures, trip limits, and license
+:.	limitation programs. The success of these methods has been limited in part due to
+high levels of juvenile red snapper mortality associated with shrimp trawling, high rates of discard mortality from the directed fishery, and socioeconomic requirements of the directed fisheries to maintain some minimal level of harvest.
+Introduction
+The Gulf of Mexico red snapper Lutjanus campechanus fishery has been in existence in the Gulf of Mexico (GOM) since the 1840s. The development of the commercial fishery has been well described by Camber (1955) and Carpenter (1965). The fishery began in the northeastern GOM centering on Pensacola, Florida. Because of readily available ice and trains to transport the fish, landings grew into the millions of pounds. By the early 1900s, landings regularly exceeded 10 million pounds (mp). As
+'Corresponding author: peter.hood@noaa.gov.
+local waters began to be depleted, the fishery expanded south into the Florida Middle Grounds off Tampa Bay, west into the Texas Lumps, and southwest to the Campeche Banks off Mexico (Camber 1955; Carpenter 1965). Technological developments such as motorized vessels and fathometers allowed the fishery to become more efficient (Camber 1955; Carpenter 1965). Landings peaked in the mid-1960s at 14 mp and have declined because of the closure of foreign waters and declines in the GOM red snapper population size (Waters 2003).
+Reliable estimates of the recreational harvest of red snapper in the GOM were
+267
+268	Hood et al.
+not available prior to 1981. In general, the for-hire sector harvests more red snapper than the private-rental sector of the fishery (Schirripa and Legault 1999). Projected recreational harvests by the Southeast Data, Assessment, and Review (SEDAR) suggest recreational harvest did not exceed 1 mp until the mid-1960s and harvest peaked in 1980 at 4.5 mp (SEDAR 2005a). From 1981 to 1990, landings declined from 4.1 to 1.4 mp suggesting a decline in the GOM stock (Schirripa and Legault 1999).
+Federal management of the red snapper fishery in the exclusive economic zone (EEZ) began in 1976 when the Magnuson-Stevens Fishery Management and Conservation Act (Magnuson-Stevens Act) was implemented. This act established the responsibility for federal fishery management decision-making between the Secretary of Commerce (Secretary) and the Gulf of Mexico Fishery Management Council (Council). The fishery management plan (FMP) for reef fish, in which red snapper is included in the management unit, was implemented in 1981 and noted that commercial and recreational red snapper landings were in decline (GM-FMC 1981). The first assessment of the red snapper stock was conducted in 1988 and showed the stock was overfished and undergoing overfishing (Goodyear 1988). The assessment also noted the GOM shrimp trawl fishery contributed heavily to the red snapper fishing mortality rate (F) by harvesting juvenile red snapper as bycatch. Therefore, the Council and NOAA Fisheries Service were obligated to rebuild this stock.
+The Council and NOAA Fisheries Service have faced and continue to face several challenges to rebuild the red snapper stock. The greatest is constraining harvest by the directed fishery and shrimp trawl bycatch of juvenile red snapper to levels allowing the stock to rebuild, while allowing enough fish to be caught to maintain the economic viability of both the directed and shrimp fisheries.
+The purpose of this paper is to describe the federal management of GOM red snapper after the implementation of the Magnuson-Stevens Act, discuss the type of actions taken, and discuss the effectiveness of the management measures employed to date. This information helps to put into context rationale for research described in this volume. The paper also provides background material necessary for Strelcheck and Hood (2007, this volume) to discuss recent actions and future management challenges.
+Management Process
+The Council is responsible for preparing, monitoring, and revising FMPs within the GOM and the Secretary is responsible for implementing proposed FMPs and amendments after ensuring management measures are consistent with the Magnuson-Stevens Act and other applicable laws (Wallace and Fletcher 2000). The Council is composed of 17 members including state fisheries officials, stakeholders, and the NOAA Fisheries Service Regional Administrator (Magnuson-Stevens Act 302). In developing regulations, the Council relies on input from the public through scoping and public testimony; input from various Council-established panels comprised of stakeholders, biologists, economists, and sociologists; and input from NOAA Fisheries Service and other state and federal agencies (Wallace and Fletcher 2000). Once the Council finishes an FMP or amendment, it is sent to the Secretary for approval, disapproval, or partial approval. If regulations are needed to fulfill the mandates of the FMP or amendment, the Secretary is also responsible for developing a final rule implementing the regulations.
+FMPs and amendments often require more than a year to go from development to implementation of a regulation. Actions are occasionally required to either address emergencies within a fishery or to provide a stop-
+Red Snapper Management History	269
+gap until an FMP or amendment are implemented (Wallace and Fletcher 2000). In such cases, the Council can request an emergency action or interim measure. These remain in effect for only 186 d after the date of publication of the rule and may be extended for one additional period of not more than 186 d provided the public has had an opportunity to comment on the emergency actions and interim measures. However, the Magnuson-Stevens Act also states when a Council requests either an emergency action or an interim measure be taken, the Council should also be actively preparing regulations addressing the emergency on a permanent basis.
+Regulation of GOM red snapper did not begin until 1984 with the implementation of the Reef Fish FMP. This plan included a 13-in total length (TL) minimum size limit for both the commercial and recreational fisheries (Table 1). The first stock assessment of the GOM red snapper stock occurred in 1988 and concluded the stock was overfished and over-fishing was occurring (Goodyear 1988). The assessment also noted the GOM shrimp trawl fishery contributed heavily to the red snapper F by harvesting age-0 and age-i juvenile red snapper as bycatch. Because of the overfishing and overfished status of the stock, it was necessary for the Council and NOAA Fisheries Service to develop and implement further regulations to improve the stock's status.
+Stock rebuilding and setting total allowable catch (TAC)
+The Council has developed and modified a rebuilding plan for the overfished GOM red snapper stock. Considerations for the plan include a target (the level the stock needs to be rebuilt to), a time period (the time needed to achieve the target), and a harvest strategy (the level of TAC set over time that allows the stock to rebuild). In reviewing information on GOM reef fish stocks, the Council, in Amendment 1, developed a framework for setting TAC with the goal of stabilizing the long term stock condition of all reef fish species to 20% spawning stock biomass per recruit (SSBR), with TAC recommendations based on rebuilding overfished stocks by 2000 (Table 1).
+The 1988 stock assessment suggested F in the directed red snapper fishery would need to be reduced by approximately 75% for the stock to rebuild by 2000 (Goodyear 1988). The Council felt to achieve such a reduction would create severe negative economic impacts in the directed fishery. Therefore, the Council selected actions in Amendment 1 predicted to reduce harvest and F by approximately 20%, recognizing further regulations would be needed to rebuild the stock. These actions set the commercial quota at 3.1 mp and established a seven-fish daily bag limit for the recreational fishery (Tables 1-3). Amendment 1 also set the allocations of reef fish between commercial and recreational fisheries based on the historical averages during the base period of 1979-1987. For red snapper, this allocation ratio was 51% commercial and 49% recreational.
+A new red snapper stock assessment was conducted in 1990 (Goodyear and Phares 1990). This assessment concluded the stock condition was less than one percent of the target 20% SSBR and the rebuilding time period ending in 2000 was unrealistic. To rebuild the stock by 2000, a complete closure of the directed fishery would be required and there would also need to be a 60% reduction in shrimp trawl bycatch of juvenile red snapper. Therefore, the time period for red snapper rebuilding was extended to 2007 through Amendment 3 in a revised framework (Table 1). Additionally, the amendment revised OY and overfishing definitions, replaced the 20% SSBR target with a target of 20% spawning potential ratio (SPR). The Council and NOAA Fisheries Service did implement through a
+270	Hood et al.
+Table 1. Year implemented, rule-making vehicle, action, and rationale for red snapper Lutjanus campechanus management measures from 1984 to 2006.
+Year	Rule-making	Action		Rationale	
+			Vehicle		
+1984	FMP'	•	13 inch minimum IL	•	Estimated 18-25% increase in yield
+				•	Some at this size sexually mature and have spawned
+1990	Amendment	•	7-fish bag limit	•	Actions estimated to achieve a 20 percent reduction in
+		•	3.1 mp commercial quota		harvest.
+		•	Rebuilding goal		_20%_SSBR
+1991	Amendment	•	Revise TAC framework to be more flexible	•	Improve the efficiency of the TAC setting process
+			3'		
+1991	Regulatory	•	2.04 mp commercial quota	•	Reduces TAC an additional 20 percent
+	amendment'	•	1.96 mp recreational allocation	•	Should allow stock to rebuild to 20 percent SPR by
+		•	Effect 50% bycatch reduction by 1994 in the		2007
+			shrimp fishery	•	Further control F
+		•	_to		Projected	achieve 20%_SPRby_2007
+1992	Emergency	•	Open commercial red snapper fishery from April	•	Ameliorate adverse economic caused by a short season,
+	rule-		3 - May 14 with 1,000 lbs trip limit due to the		an influx of non-traditional vessels in the fishery, and
+			season closing in just 53 days		depressed ex-vessel prices
+1992	Amendment	•	Moratorium on the issuance of new reef fish	•	Limit participation in an overcapitalized fishery and
+	41		commercial permits for three years		allow time to develop a limited-access fishery
+1992	Emergency	•	Create commercial red snapper 2,000 lbs and 200	•	Limit effort primarily to those with a historical
+	rule		lbs endorsement for 1993		dependence in the fishery
+				•	Allow a bycatch provision
+				•	Extend the fishing year
+1992	Emergency	•	Close the commercial fishery from December 1,	•	Provide time to implement trip limit endorsement
+	rule		1992 to February 15, 1993		system
+1993	Regulatory	•	3.06 mp commercial quota	•	Continue rebuilding plan
+	amendment'	•	2.94 mp recreational allocation	•	Facilitate enforcement of the trip limits
+		•	Projected to achieve 20% SPR by 2009	•	Minimize fishing during hazardous winter weather
+		•	Change opening day of the 1994 commercial	•	Ensure the commercial red snapper fisheFy is open
+			season to February 10		during Lent
+		•	Restrict commercial vessels to landing no more 		
+			than		_one _trip _limit _per_day
+1993	Amendment	•	Extended commercial red snapper endorsements	•	Limit effort primarily to those with a historical
+	6' 				dependence in the fishery
+				•	Allow a bycatch provision
+				•	Extend the fishing year
+1994	Amendment	•	Raise minimum size limit incrementally from 14	•	Increase yield per recruit and help rebuild the stock
+	5'		to 16 inches TL over a 5-year period	•	Limit pulse and derby commercial fishery
+		•	Establish Class I and Class 2 licenses	•	Limit fishing on artificial reefs off Alabama
+		•	Create		_Alabama _SMZs
+1994	Regulatory	•	Change opening day of the commercial season to	•	Ensure the commercial red snapper fishery is open
+	amendment'		February 24, 1995		during Lent
+		•	Retain 6 million pound red snapper TAC and	•	Continue rebuilding plan
+			commercial trip limits	•	Because the recreational sector exceeded its 2.94
+		•	Reduced the daily bag limit from 7 fish to 5 fish		million pound red snapper allocation each year since
+		•	Increase the minimum size limit for recreational		1992, further restrict recreational F
+			fishing from 14 inches to 15 inches a year ahead		
+			of the		_scheduled _automatic _increase.
+1994	Amendment	•	Establish dealer reporting	•	Improve accountability for landings
+			7' 		
+1995	Regulatory	•	Raise TAC from 6 mp to 9.12 mp	•	Revise rebuilding plan taking into account new
+	amendment'	•	Start commercial season February 28		information
+				•	Ensure the commercial red snapper fishery is open
+					during Lent
+1994	Amendment	•	Allow collection of commercial landings 1990-	•	Need for historical red snapper landings for commercial
+	9' 		92 for ITQ		fishermen to establish baseline information for an IFQ
+		•	Extend the moratorium on the issuance of new		program
+			reef fish permits	•	Allow time for evaluation and development of a more
+					comprehensive controlled access system
+1995	Amendment	•	Attempted to establish ITQ system (Congress	•	Reduce overcapitalization of commercial fishery
+	8' 		repealed it)	•	End derby fishery
+				•	Reduce user conflicts
+1996	Regulatory	•	Increase TAC to 9.12 mp	•	TAC recommendations based on a new stock
+	amendment'	•	Extend recovery date to 20% SPR to 2019		assessment and recovery plan range from 6 to 10 mp
+		•	Split commercial quota in a spring and fall	•	Provide commercial fishermen an income going into
+			season		the fall holiday season
+Red Snapper Management History	271
+Table 1. (Continued)
+j7	ma	Action	Rationale
+		Vehicle	
+	Amendment	•	Extend the red snapper endorsement system	•	Continue permit limitations to avoid open access to red
+	131	through the remainder of 1996 and, if necessary,	snapper by all commercially permitted vessels
+		through 1997, in order to give the Council time to	
+			develop _a_ permanent _limited _access _system
+	Amendment	•	NMFS disapproved proposed provisions to	•	Minimum size limit increase assumes a 33 % discard
+	12'	cancel the automatic comm. red snapper size	mortality rate, a rate thought to be too high.
+		limit increases to 15 inches total length in 1996 	
+		_16_inches	and	total_length_in_1998
+	Regulatory	•	Change start of fall season from 9/15 to 9/2	•	Earlier opening of the season avoids bad weather and
+	amendment'	•	Fall season first 15 days of each month until the	Labor Day weekend conflicts with anglers
+		quota is filled.	•	Helps extend the season
+		•	Change the recreational red snapper allocation to	•	Quota will better control angler harvest
+		a quota	•	Quota allows for quicker action by RA to close the
+		•	RA close recreational fishery in EEZ when	fishery when needed 
+		landings	exceed	_projected _to_	_its _allocation
+•j	Regulatory	•	Cancel planned increase in the red snapper	•	Gains to the fishery from size limit increase offset by
+	amendment'	minimum size limit to 16 inches TL	decreases in yield per recruit
+1998	Amendment	•	Establish a permanent two-tier red snapper	•	Without transferability, the previous system was a
+	151	license limitation system (Class I and Class 2)	closed-access system
+		•	The comm. season was split in two, with two	.	Spread out landings over a longer period of time and
+		thirds of the quota allocated to a February 1	give fishermen more options about when to fish
+		opening and the remaining quota to a September	
+			1 opening.
+1998	Regulatory	•	Maintain 9.12 mp TAC	•	Rebuilding projected to continue to 20% SPR with
+	amendment'	•	Zero bag limit for the captain and crew of for-	current TAC
+		hire recreational vessels (not implemented)	•	Zero bag limit for captain and crew projected to extend 
+			recreational
+			_season _1-2_weeks
+1998	Regulatory	•	6 mp TAC, with release of all or part of the	•	A 1998 NMFS study suggested BRDs could achieve
+	amendment'	remaining 3.12 mp contingent upon the	bycatch mortality reductions of Age-0 and Age-I red
+		capability of BRDs to achieve better than a 50	snapper by over 60 percent
+		percent reduction in juvenile red snapper shrimp	•	Reduce recreational catch to avoid quota closures
+		trawl mortality	•	Close the recreational fishery during the least favorable
+		•	Reduce the bag limit to 4 fish and zero fish for	months for fishing to reduce effort
+		captain and crew of for-hire vessels	•	Previous size limits were based on a release mortality
+		•	Set the opening date of the rec fishing season to	of less than 33%. New information suggested release
+		March 1	mortality of greater than 33%
+		•	Reduce the minimum size limit for red snapper to	
+		14 inches total length for both directed fisheries	
+		•	Change the opening of the fall fishing season	
+		from the first 15 days to the first 10 days of each	
+			month beginning September 1
+1998	Emergency	•	Reduce the recreational bag limit for red snapper	•	Reduce recreational F to prevent the fishery from
+	rule'	from 5 to 4 fish per person	exceeding its quota
+		•	Reopen the recreational fishing season in January	
+			1999
+1999	Interim rule'	•	Increase the minimum size of recreationally	•	Extend the recreational season by 2 weeks
+		caught red snapper to 18 inches	
+		•	Close the recreational red snapper fishery in the	
+		EEZon August	_19,_1999
+1999	Interim rule'	•	Change 2000 recreational season from April 24	•	Allow for a fall recreational fishery
+		to October 31	•	Allow flexibility for charter fishermen to manage their
+		•	Reinstate 4-fish bag limit for captain and crew	catch
+		•	Reduce opening of spring commercial seasons	•	Extend the spring commercial season
+			from 15 to 10 days
+2000	Amendment	•	Extend the reef fish permit moratorium for	•	Provide a stable environment for the fishery
+	17'	another five years, from the existing expiration	•	Prevent the fishery from further overcapitalization
+		date of December 31, 2000 to December 31,	•	Allow time for evaluation and development of a more
+		2005, unless replaced sooner by a comprehensive	comprehensive controlled access system
+			controlled access system.	I
+272	Hood et al.
+Table 1. (Continued)
+Year	Rule-making	Action	Rationale
+		Vehicle	
+2000	Regulatory	•	Maintain the TAC at 9.12 mp for the next two	•	Maintain stability in the fishery by maintaining TAC
+	amendment'	years	•	Reduce the recreational F
+		•	Increase the recreational minimum size limit	•	Extend the recreational season
+		from 15 inches to 16 inches IL	•	Extend the commercial season
+		•	Set the red snapper recreational bag limit at 4 fish	•	Maintain price stability for the commercial fishery
+		•	Reinstate the for-hire captain and crew bag limit	•	Delay the fall season to increase red snapper prices
+		•	Set the recreational red snapper season from	•	Allow more flexibility in assigning the commercial
+		April IS to October 31, subject to revision by the	spring and fall quotas should TAC change
+		RA to accommodate reinstating the bag limit for	
+		captain and crew	
+		•	Set the commercial red snapper Spring season to	
+		open on February 1 and be open from noon on	
+		the 1st to noon on the 10th of each month until	
+		the Spring sub-quota is reached	
+		•	Set the commercial red snapper Fall season to	
+		open on October 1 and be open from noon on the	
+		1st to noon on the 10th of each month until the	
+		remaining commercial quota is reached	
+		•	Retain the red snapper commercial minimum size	
+		limit at 15 inches TL	
+		•	Allocate the red snapper commercial season sub-	
+		quota at 2/3 of the commercial quota, with the	
+		Fall season sub-quota as the remaining 	
+			commercial quota.
+2003	Amendment	•	Establish a 3-year moratorium on the issuance of	•	Cap effort in the for-hire fishery
+	20'	any additional charter vessel/headboat permits	
+		for vessels fishing the EEZ of the Gulf of Mexico	
+		(Gulf) for Reef Fish or CMP fishes	
+		•	Allow permits (except those issued to historical	
+		captains) to be transferable to other persons	
+		•	Require vessel captains or vessel owners to	
+		participate in data collection surveys as a permit	condition.
+2005	Amendment	•	Establish status determination criteria and	•	Bring the red snapper fishery into compliance with
+	22'	biological reference points	requirements added to the MSFCMA through the SFA
+		•	Establish red snapper rebuilding plan	e	Establish a schedule for rebuilding the overfished I red
+		•	Establish additional reef fish bycatch reporting	snapper stock meets MSFCMA requirements
+		methodologies	•	Document and reduce red snapper bycatch
+2005	Amendment	•	Extend the commercial reef fish permit	•	Provide a stable environment for the fishery
+	24' 	moratorium indefinitely from the existing	•	Prevent the fishery from further overcapitalization
+		expiration date of December 31, 2005, unless	•	Allow time for evaluation and development of a more
+		replaced by a comprehensive controlled access	comprehensive controlled access system
+			system.
+2006	Amendment	•	Extend the recreational for-hire reef fish permit	•	Cap effort in the for-hire fishery
+	25' 	moratorium indefinitely from the expiration date	
+		of June 16, 2006 and create a limited access	
+			system.
+2006	Amendment	•	Establish an individual fishing quota program for	•	Reduce overcapacity in the commercial red snapper
+	26' 	the commercial red snapper fishery	fishery
+			•	Eliminate, to the extent possible, the problems
+			associated with derby fishing
+'Copies of the FMP/amendment can be obtained from the Gulf of Mexico Fishery Management Council, 2203 N. Lois Ave., Tampa, FL 33607 2Copies of the rule can be obtained from the Southeast Regional Office, 263 13th Avenue South, St. Petersburg, FL 33701
+Red Snapper Management History	273	
+regulatory amendment a 4 mp TAC for the 1991 fishing year, of which 2.04 mp was the commercial quota and 1.96 mp was for the recreational allocation (Tables 1-3). Hence the commercial quota was reduced. Additionally, the Council proposed a 50% reduction of juvenile red snapper in shrimp trawl bycatch occur by 1994. However, Congress placed a 3-year moratorium on bycatch measures so NOAA Fisheries Service could conduct a research program to assess the effect of shrimp fishery on federally managed species.	cal catch (ABC) range of 4-6 mp based on several management options that could rebuild the stock by 2009, given shrimp trawl bycatch reductions were possible in either 1994, 1995, 1996, or incrementally through 1998 (RFSAP 1994). The projections also showed unless drastic reductions in bycatch were achieved, the likelihood of achieving 20% SPR was minimal. The Council maintained TAC at 6 mp for both 1994 and 1995 through a regulatory amendment.
+In 1992, the Council's Reef Fish Stock Assessment Panel (RFSAP) reviewed a new red snapper stock assessment (Goodyear 1992). The panel looked at stock rebuilding scenarios using shrimp bycatch reduction levels ranging from 40 to 60% and rebuilding time periods ending in 2007 to 2009 (RFSAP 1992). Depending on the rebuilding target and bycatch, the RFSAP recommended TAC be set between 4 mp and 6 mp. A rebuilding time period through 2007 had been established in Amendment 3 because this seemed a reasonable time period to rebuild the stock. However, Amendment 3 also established that rebuilding periods could be changed through framework actions and that rebuilding periods could not exceed 1.5 times the biological generation time for a managed species. The 1992 stock assessment estimated the generation time for red snapper to be 13 years, thus the maximum rebuilding period for red snapper would be 19.5 years. Given the rebuilding time period started in 1990, the target date could be revised to 2009. Thus, the Council selected a 6 mp TAC based on using the revised rebuilding time period ending in 2009 and assuming that a 50% reduction in shrimp bycatch could be achieved by 1994.	New information on red snapper life history and shrimp trawl bycatch became available for the 1995 stock assessment (Goodyear 1995). These included an increase in red snapper longevity (53 years), a decrease in the natural mortality rate (0.2-0.1), and indications that BRDs could achieve a 50% bycatch reduction. As a result, a new generation time was estimated (19.6 years) resulting in a revised rebuilding target date of 2019 (=1990 + 1.5 x 19.6). The RFSAP provided an ABC range to the Council of 6 mp to 10 mp, but cautioned these recommendations were based on: 1) actual shrimp trawl by-catch mortalities for 1995 and 1996 are no greater than the projected estimates; 2) the recreational sector stays within its allocation; 3) the 50% bycatch reduction in the shrimp fishery is achieved in 1997; and 4) projected increases in red snapper recruitment are realized (RFSAP 1995). Additionally, the RFSAP pointed out the stock was operating at a dangerously low SPR. Given this advice, the Council implemented TAC for 1996 at 9.12 mp in a 1995 regulatory amendment. This TAC was derived from bag and size limits that suggested a five-fish bag limit and 15-in minimum size limit for the recreational fishery would result in a harvest of 4.47 mp (Holiman 1995). Given the 51/49% split between the commercial and recreational fisheries, the commercial quota was 4.65 mp. In setting this TAC, the Council assumed a minimum of a 37% reduction in shrimp trawl bycatch in 1997 and a 50% reduction in bycatch by
+The RFSAP reviewed a revised stock assessment in 1994 (Goodyear 1994). The panel recommended an acceptable biologi-	
+274	Hood et al.
+1998. Additional updates on the red snapper stock were provided to the RFSAP in 1996 (Goodyear 1996), but the RFSAP did not make any recommendations regarding TAC (RFSAP 1996).
+The 1998 assessment assumed shrimp trawl bycatch reductions beginning in 1996 would not occur until 1998 (Goodyear 1997). Under these assumptions, the RFSAP advised that in order to achieve 20% SPR in 2019, either the TAC must be reduced to approximately 3.6 million pounds at the currently planned bycatch reduction level of 44% in 1998 with the requirement of BRDs, or bycatch mortality must reduced by approximately 66% of baseline levels to maintain the current 9.12 mp TAC (RFSAP 1997). They also advised harvest in the fishery could support a 12 mp TAC, although this would require a 77% reduction in shrimp trawl bycatch from baseline levels. The RFSAP also suggested the Council consider a constant F rebuilding strategy so TAC could increase as the stock size increased (RFSAP 1997). To accomplish this, TAC would need to be reduced to between 3 and 6 mp; however, the Council rejected this
+Table 2. Changes in commercial red snapper quota, size limits, and season length by year.
+Year	Size Limit	Calendar Days Open	Quota	Commercial Harvest
+	(Inches TL)		(million pounds)	(million pounds)
+1984-1989	13	365	na	na
+1990	13	1	365	3.1	2.65
+1991	13	2362	2.04	2.21
+1992	13	53+42=95	2.04 + emergency	3.03
+1993 4	13	94	3.06	3.37
+1994	14	77	3.06	3.22
+1995	15	50-l-2=52	3.06	2.93
+1996	15	65+22=876	4.65	4.31
+1997	15	53+20=73 7	4.65	4.81
+1998	15	42+30=72	4.65	4.68
+1999	15	45+25=709	4.65	4.87
+2000	15	38+28=6610	4.65	4.84
+2001	15	56+23=79	4.65	4.63
+2002	15	64+27=91	4.65	4.78
+2003	15	67+27=94	4.65	4.41
+2004	15	70+35=105	4.65	4.67
+2005	1	15	1	80+51=131	4.65	4.04
+'Bottom longlines prohibited within 50 fathoms west of Cape San Bias, FL, and within 20 fathoms elsewhere. 2 First year commercial red snapper fishery was closed.
+Season re-opened April 4-May 15 with 1,000-pound trip limit.
+First year of two-tiered system of trip limits; 2,000 pounds for boats with endorsements and 200 pounds for other boats with reef fish permits.
+Season re-opened for 36 hours Nov 1-2. Two-tiered system of trip limits.
+6 First year of planned spring (3.06 million pounds) and fall (for the remaining unfilled quota) seasons. The fall season opened for the first 15 days of each month or until the quota is filled.
+First year of license limitation system with trip limits of 2000 pounds for Class I boats and 200 pounds for Class 2 boats.
+'The fall season opened during the first 10 days of each month or until the quota is filled.
+'0 The spring and fall season opened during the first 10 days of each month or until the quota is filled.
+Red Snapper Management History	275	
+idea. Subsequent analyses from NOAA Fisheries Service projected step-wise increases in bycatch reductions from 45% in 1998 to greater than 60% in years following 2000 had a 50% or greater probably of rebuilding the stock to 20% SPR by 2019 with a 9 mp TAC (Schirripa 1998). Therefore, the Council selected to maintain TAC at 9.12 mp in a 1998 regulatory amendment (Table 1).	SAP was concerned with the hardships associated with proposed reductions in TAC (e.g., by —50%) necessary to achieve a constant F scenario in a single year as outlined in the harvest strategy. Based upon this concern, the RFSAP recommended NOAA Fisheries Service consider alternatives that could lessen the impacts of moving to a constant F in a single year, such as either a phased reduction in TAC over two or three years or no changes in current TAC, but capping long-term yields at historical values of 15-20 mp. However, the Council was reluctant to reduce TAC to the levels prescribed by the RFSAP. Thus, NOAA Fisheries Service staff developed a decision-tree approach to managing the stock based on levels of bycatch reduction and periodic assessments (Powers et al. 2000). To minimize the adverse effects to the directed fishery, TAC in this plan was maintained at 9.12 mp.
+The 1999 assessment used an age-structured assessment program (ASAP) rather than the virtual population analysis models used in previous assessments (Schirripa and Legault 1999). This model provided greater flexibility, provided internally consistent estimates of management parameters of interest (i.e., the F that can sustain maximum sustainable yield (MSY) and stock biomass capable of producing MSY (BMSY), and improved evaluating uncertainty in characterizing stock status. The RFSAP evaluated ABC under several combinations of shrimp trawl bycatch reduction levels, levels of steepness of the spawner-recruit curve, and constant catch versus constant fishing mortality rate harvest strategies (RFSAP 1999). Further, they provided biomass-based status determination criteria following Restrepo et al.'s (1998) guidance on the use of precautionary approaches to National Standard 1 of the Magnuson-Stevens Act.	In May 2001, the Council submitted to NOAA Fisheries Service a regulatory amendment for the Reef Fish FMP to set a red snapper rebuilding plan time period through 2032. The plan used as its basis the rebuilding plans provided in Powers et al. (2000). However, in July 2002, NOAA Fisheries Service determined the regulatory amendment would have a reasonably foreseeable significant adverse effect on both the shrimp and (potentially) the directed red snapper fisheries. Therefore, NOAA Fisheries Service recommended the Council develop the rebuilding plan in an amendment to the Reef Fish FMP, as well as analyze current and additional rebuilding alternatives in greater detail through an environmental impact statement. The revised plan was developed by the Council in Amendment 22 and was based on projections from the 1999 assessment indicating the red snapper stock could rebuild to BMSY within the longest time period recommended by NOAA Fisheries Service guidelines (31 years for red snapper; RFSAP 1999). The plan maintained TAC at 9.12 mp, projected an end to overfishing
+The assessment suggested a high degree of uncertainty about the stock (Schirripa and Legault 1999). Estimates of MSY ranged from 22 to 205 mp, and estimates of minimum stock size threshold (calculated as (1	
+M) x BMSY = 0.9 x BMSY) would be 2.2 to 3.7 billion pounds. This resulted in a range of maximum ABC recommendations of 5.8 to 9.12 mp under the constant catch scenario. Under the constant F scenario, the maximum ABC recommendations were 2.0 to 3.5 mp in 2000, and 2.4 to 4.2 mp in 2001.	
+While the RFSAP strongly endorsed the Constant F approach over the constant catch rebuilding scenario (RFSAP 1999), the RF-	
+276	Hood et al.
+Table 3. Changes in recreational red snapper Lutjanus campechanus size limits, bag limits, season length, and allocation/quota.
+Year	Size Limit	Daily Bag Limit	Season	Allocation/Quota	Recreational Harvest (Million Pounds)
+	(Inches TL)	(Number of	Length	(Million Pounds)	
+		Fish)	(days)		
+1984	13'	no bag limit2	365	na	3.09
+1990	13	7	365	na	1.36
+1991	13	7	365	1.96	2.10
+1992	13	7	365	1.96	3.62
+1993	13	7	365	2.94	5.57
+1994	14	7	365	2.94	4.53
+1995	15	5	365	2.94	3.69
+1996	15	5	365	4.47	3.47
+1997	15	5	3303	4.47	4.37
+1998	15	44	272	4.47	4.35
+1999	156	4	240'	4.47	4.35
+2000	16	4	194	447	333
+2001	16	4	194	4.47	3.56
+2002	16	4	194	4.47	4.87
+2003	16	4	194	4.47	4.60
+2004	16	4	194	4.47	5.02
+2005	16	4	194	4.47	4.59
+'For-hire boats exempted until 1987.
+2 Allowed to keep 5 undersized fish per day. Fishery closed on November 27, 1997.
+' Bag limit was 5 fish from January through April, 1998.
+Fishery closed on September 30, 1998.
+6 Size limit was 18 inches from June 4 through August 29, 1999.
+Fishery closed on August 29, 1999.
+8 Fishing season opens at 12:01 a.m. April 21 and closes at 12:00 midnight October 31.
+between 2009 and 2010, and projected rebuilding the stock to BMW by 2032. However, it was dependent on large reductions in by-catch mortality through technological means such as BRDs, and reductions in effort due to an economic downturn in the shrimp trawl fishery.
+The most recent stock assessment was conducted through the SEDAR process. This assessment used data through 2003 and concluded while the red snapper stock was still overfished and undergoing overfishing, the stock was showing small signs of improvement (SEDAR 2005b). However, the assessment also concluded reductions in red snapper Fs in both the directed and shrimp trawl fisheries were warranted to maintain rebuilding. SEDAR (2005b) provided precautionary
+Red Snapper Management History	277
+advice to the Council in selecting TAC. Because of uncertainty in the stock-recruitment relationship and the effects of shrimp trawl bycatch, the SEDAR indicated the emphasis should focus on short-term (5-10 year) goals that rebuild the stock in the desired direction rather than on specific rebuilding targets, or how to attain them. The SEDAR also indicated the Council needs to determine what limitations shrimp trawl bycatch has on the ultimate red snapper stock status (SEDAR 2005b). Thus, selecting a TAC needs to balance the tradeoff between bycatch reduction and rebuilding stock biomass to a practicable level given the extent that shrimp trawl by-catch can be reduced. The Council is using this advice in an amendment addressing both red snapper rebuilding and shrimp trawl bycatch (Streicheck and Hood 2007, this volume).
+Commercial Fishery
+The directed commercial fishery in the GOM has been managed with size limits, trip limits, limited entry, season closures, and a quota. The quota, once met, causes the fishery to be closed. The first regulation placed on this fishery was a 13-in TL minimum length limit in the initial FMP (Tables 1 and 2). The purpose of this regulation was to increase the yield in the fishery by 18-25%. This measure also increased the likelihood of red snapper being able to spawn before caught. In 1994, a stepped increase in the minimum size over a 5-year period (1994-1998) from 14-in ii to 16-in TL was implemented through Amendment 5 (Table 1). This increase was projected to increase the yield per recruit and biomass yield from the fishery. By using stepped increases, adverse effects on the fishery would be minimized. Through Amendment 12 (implemented in 1997), the Council tried to hold the commercial size limit at 14-in TL because industry indicated a smaller fish was more desirable in the market and discard mortality rates (estimated to be 33%) were too low. However, the Secretary disapproved this measure continuing the current stepped-size limit increase. On the basis of a new stock assessment (Schirripa and Legault 1997), the increase in minimum size to 16-in TL was canceled through a 1997 regulatory amendment on the advice of the RFSAP (1997) who concluded potential gains by the fishery would be offset by decreases in yield per recruit, having no or a negative effect on rebuilding. In December 1998, the Council submitted a regulatory amendment to reduce the minimum size limit to 14-in (Table 1). However, NOAA Fisheries Service once again disapproved the measure because it did not provide a clear economic or biological benefit.
+With the use of quotas to manage the commercial fishery, the fishery had to be closed once the quota was met. In 1991, the commercial quota was reduced from 3.1 mp to 2.04 mp. The fishery was able to meet this quota prior to the end of the fishing year, and thus was closed on August 25, 1991 (Tables 2 and 4). However, this closure of the fishery led to a shift in fishing effort such that the 1992 fishery had to close by February 22, 1992 (53 d). The short 1992 season created several problems to the fishery including depressed prices from flooding the market due to an influx of nontraditional fishermen. To alleviate the adverse economic and social affects of the early closure, the Council requested an emergency rule to open the season from April 3 to May 14, 1992, with a 1,000-lb trip limit.
+To reduce the adverse economic conditions in the fishery observed in 1992, NOAA Fisheries Service, at the request of the Council, published an emergency rule establishing a 2,000- and 200-lb red snapper trip limit endorsements. The 2,000-lb daily trip limit endorsement went to fishermen able to demonstrate landings of at least 5,000 lb whole weight two of three years (1990, 1991, and 1992) while the 200-lb daily trip limit en-
+278	Hood et al.
+dorsement went to interested reef fish permit holders as a reasonable bycatch allowance. The red snapper endorsements were then extended by Amendment 6 in 1993 and developed into transferable Class 1 (2,000 lb trip limit) and Class 2 (200 lb trip limit) licenses in 1994 in Amendment 5. In 1992, the Council also limited the number of reef fish permits with a moratorium on the issuance of new permits through Amendment 4; this has been continued through Amendments 9, 17, and 24 (Table 1).
+The Council has adjusted the commercial seasons to work with industry to improve the economic environment for the fishery. The first adjustment occurred for the 1993 fishing year when the opening of the fishery was delayed from January 1 to February 16 in order to accommodate new trip limit endorsements being put in place through emergency regulations (Table 1). This delay to a February opening for the fishery was continued for following years to ensure the commercial red snapper fishery was open during Lent, when the industry indicated they obtain higher prices, and to keep the fishery closed during January when weather conditions are worst.
+In 1995, the commercial season initially closed April 15, but there was still about 220,000 lb of red snapper to be harvested (Tables 2 and 4). Rather than rolling these pounds into the 1996 commercial quota, the fishermen indicated they would rather harvest these pounds in the fall in order to have some income from red snapper fishing prior to the holidays. The Council requested, and NOAA Fisheries Service approved, a 36-h mini-season in November 1995 (Tables 1 and 4). In 1996, the commercial quota was raised from 3.06 to 4.65 mp. A 1996 regulatory amendment delayed the release of the 1.59 mp to September 15 so the commercial fishery could receive an economic benefit similar to the previous fishing year (Table 1).
+With the 1992 commercial quota being filled in just 53 d, the Council recognized the effort capacity in the fishery was excessively high. In addition, this type of derby effect created other problems such as market gluts, depressed prices, and unsafe fishing conditions by forcing fishermen to fish in bad weather (Waters 2001; 2003). Thus, the Council developed an individual fishing quota (IFQ) program for the commercial fishery in Amendment 8, which was approved by NOAA Fisheries Service (Table 1). However, this amendment was never implemented because Congress put in place a moratorium on the development or implementation of new IFQ programs until October 1, 2000, with the 1996 Sustainable Fisheries Act. The rationale for the moratorium was in response to concerns about the social and economic effects of IFQs.
+With the IFQ program delayed, the Council tried to ameliorate the negative economic conditions of the red snapper derby fishery by using mini-seasons. In 1997, the fall sub-quota was divided up into 15-d mini-seasons beginning at noon on the first day of the month and ending at noon on the 151 day of the month in September (note the September opening was reduced by one day so that the fishery did not overlap with the Labor Day holiday weekend) (Table 4). The purpose of these mini-seasons was to extend the number of months the fishery could be open. It was thought this could mitigate some of the effects of a derby fishery by reducing the amount of fish flooding the market at any one time. These mini-seasons were further reduced to 10 d beginning in September 1999 by a regulatory amendment. Economic analyses suggested shorter seasons would provide further economic benefits to the fishery (Waters and Antozzi 1997).
+In 2001, the Council reinitiated the development of the IFQ program through an IFQ profile. Congress dictated before a red snapper IFQ program could be implemented, there needed to be two referenda voted on by the Class 1 license holders. The first referendum asked whether red snapper fish-
+Red Snapper Management History	279
+ci) C - C Lf
+C
+r-4 ru
+0-)
+ci) Th F
+CD-
+Co
+CD-
+0 -C
+CC
+wo
+Ln
+ci)
+C ci)
+C
+ci) (J
+C
+C
+—0
+t)
+ciC
+L)
+:3(0
+- 0
+ci)°
+ULI
+ci)
+C
+:3(0
+0 ci)
+r0°
+C
+-0E ci)
+>' 0
+o
+-	C
+0C
+WL/ci
+ro
+0C
+			30	C 'r	00	C	30	1- C	30	\C	C	C		00	C	1-
+			,C				30		C	en	—			0		
+																
+	00		(N	(N	—	—	(N				--			(N	(N	
+																
+o	CO	CO		(N	C'	C'	r-	(N	r-	rn	N	N		N		0	C'	r
+I— L) V 0					N		30	N							C	
+																
+																
+									C	(N		30	C	C	C	(N
+																(N
+																C'
+															00	—
+0	-										*	*	*	*	*	-
+																
+z	-					-										
+																
+o	-															
+																
+V	I									I						
+																
+		r(N				30										
+																
+																
+																
+																
+																
+0																
+	rn															
+																
+																
+	cn															
+																
+																
+	00	00	ZM	00	00	00	a\	00								
+			rq	C14		cq										
+																
+V		I		C	C		I	I	I	I		I	I	I		
+										—						
+CO	c	r	II													
+			c													
+				r	CO		O	N	00			C'				
+V	C'	C'	C'	C'	C'	C'	C'	C'	C'	C'	C	C	C	C	C	C
+	0'	C'	C'	C'	C'	C'	C'	C'	C'	C'	C	C	C	C	C	C
+											(N	(N	(N	(N	(N	(N
+280	Hood et al.
+ermen supported further consideration of an IFQ program. The fishermen qualified to vote in this election voted overwhelmingly for the Council to proceed with the development of an IFQ program in February 2004 (Phil Steele, NOAA Fisheries Service, personal communication 2). The Council thus began to develop the program in Amendment 26, which was approved by the qualified fishery participants in the second referendum in February 2006. This amendment was implemented in time for the 2007 fishing season.
+Recreational Fishery
+The directed recreational fishery in the GOM has been managed with size limits, bag limits, season closures, and quotas. The first regulation placed on this fishery in 1990 was a 13-in TL minimum length limit (Table 1). Like the commercial fishery, the purpose of this regulation was to increase the yield in the fishery by 18-25% and increase the likelihood of red snapper being able to spawn before being harvested. The first bag limit (seven fish per person per day) was put in place in 1990 through Amendment 1 to reduce the recreational harvest by 20% and assist in rebuilding the stock. In 1994, Amendment 5 created a stepped increase in the minimum size over a 5 year period (1994-1998) from 14-in TL to 16-in TL. However, because of allocation overages in the recreational fishery (Table 3), the increase from 14 to 15 in was accelerated by one year with a reduction in the bag limit to 5 fish to achieve a 43% reduction in recreational harvest. The increase in minimum sizes was also projected to increase the yield per recruit and biomass yield from the fishery, thus assisting in rebuilding the stock more quickly.
+The first year the recreational fishery needed to be closed prior to the end of the fishing year was 1997 when the recreational
+'Phil Steele, NOAA Fisheries Service, Southeast Regional Office, 263 13th Ave. S., St. Petersburg, Florida 33705.
+quota was projected to be filled by November 26, 1997 (Table 3). In 1998, NOAA Fisheries Service projections indicated the fishery would meet its quota by October 1 causing the for-hire industry to discuss with the Council the need for a longer season so the industry could remain economically viable. In response, the Council requested NOAA Fisheries Service implement an emergency rule to reduce the bag limit from 5 to 4 fish (Table 1). This reduction was made permanent in a 1998 regulatory amendment. In addition, a zero-bag limit for captain and crew was implemented for the charter and head-boat fisheries.
+Projections for the 1999 fishing year indicated the fishery would close on August 5, 1999. Representatives from the for-hire industry were concerned this earlier closure would create economic harm to their industry and requested the Council and NOAA Fisheries Service examine ways to extend the season through August 28. Thus, a temporary 18-in minimum size limit was implemented to achieve the desired season. However, this measure was very unpopular with the angling public, and so in a 2000 regulatory amendment, the current 16-in minimum size limit was implemented (Table 1). This larger size limit, in conjunction with the reduced bag limit, was projected to provide the recreational fishery with a six to seven month season.
+In evaluating the red snapper fishing season and taking into account seasons desired by anglers, the Council determined a spring, summer, and fall fishery was most desirable. It was also determined October was economically a more important month than April. Therefore, the fishing season selected by the Council was from April 15 to October 31. However, the Council decided to reinstate the captain and crew bag limit, projected to shorten the fishing season by three to ten days. Thus the season was further shortened to April 21 to October 31. Selection of this season was not without controversy. South
+Red Snapper Management History	281
+Texas fishermen asked for a winter season in January and February, which are important months for them. However, scenarios including a winter season would eliminate several weeks from the spring-fall season. Thus, the Council rejected this idea in favor of the longer spring-fall season, which they reasoned would most benefit the fishery as a whole.
+Recreational effort was further constrained in Amendment 20, which established a 3-year moratorium on the issuance of any additional reef fish charter vessellheadboat permits (Table 1). This cap on permit numbers was needed because effort since the 1980s had more than doubled and the for-hire sector of the fishery was responsible for approximately two-thirds of recreationally caught red snapper. This moratorium, set to expire in June 2006, was renewed indefinitely in Amendment 25.
+Shrimp Fishery
+As mentioned above, the 1988 stock assessment indicated juvenile red snapper by-catch from the shrimp fishery is a major contributor to red snapper F (Goodyear 1988). In 1990, the Council proposed seasonal closures for some shrimping grounds to reduce bycatch by 50% in a reef fish regulatory amendment. However, development of these measures was halted in 1990 when Congress placed a 3-year moratorium on regulations so NOAA Fisheries Service could evaluate different methods for bycatch reduction. This moratorium was extended by one year so NOAA Fisheries Service could complete the Cooperative Shrimp Bycatch Characterization Project (NOAA Fisheries Service 1995). In 1995, the Council began work on Amendment 9 to the Shrimp FMP which was implemented in 1998. This amendment established the use of BRDs west of Cape San Bias and established criteria to certify different BRD designs for use in the fishery. The requirement for BRDs in shrimp trawls was extended east of Cape San Blas in 2004 through Shrimp Amendment 10.
+The Council had considered area closures, seasonal closures, and limited access programs as alternatives to BRDs to reduce bycatch. However, these measures were considered impracticable. Juvenile red snapper are on the shrimp grounds year-round and in areas of high shrimp concentrations making them difficult to avoid either temporally or spatially (Nichols 1990). The Council also considered limited access programs requiring permits, which at the time were considered difficult to implement due to the complexity of the fishery and uncertainties regarding revocations and administrative fees.
+Once certified BRDs were placed on shrimp trawls, the shrimp bycatch fishing mortality rate on red snapper was estimated to be potentially reduced by an estimated 40% in the shrimp fishery (Nichols, undated). Field tests conducted by NOAA Fisheries have demonstrated BRDs may be able to reduce the fishing mortality rate for red snapper in the shrimp fishery by as much as 70% with only small reductions in shrimp catch (Watson et al. 1999). However, as reported by SEDAR, there has been a decline in BRD performance since 1998 (Foster 2005; SEDAR 2005b). This decline, particularly in the fisheye design, is likely due to changes in fishing techniques to minimize shrimp loss as the nets are hauled back aboard shrimp vessels. Actual bycatch reduction of juvenile red snapper from BRDs is currently estimated to be below 15%. Currently, the Council is evaluating new information on reductions in shrimp trawl effort due to an economic downturn in the fishery. The Council will weigh the effects of this change in determining what future actions will be required to achieve appropriate reductions in juvenile red snapper bycatch.
+282	Hood et al.
+Summary
+Management of red snapper in the GOM EEZ has entered its 251h year, yet many management challenges remain for this species. The stock has not been rebuilt even though the initiation of a rebuilding plan began in 1990. Three factors account for this lack of progress. One is the stock had been fished to a very low level (at least 1% of 20% SPR) (SEDAR 2005b). Another is the Council, as documented in this paper, generally chose the higher end of ABCs provided by stock assessments, thus delaying rebuilding. This choice was based in part on balancing the need for stock rebuilding while minimizing the adverse effects of limiting TAC on the directed fishery. The third factor is the high level of F placed on the red snapper stock from the shrimp trawl fishery acts to limit recruitment.
+While rebuilding may not be proceeding as quickly some would like, the Council and NOAA Fisheries Service have, over time, become better able to manage the directed fishery within its quota. With the exception of 1992 (emergency season reopening) to 1993, the commercial fishery has not exceeded its quota by more than 5%, and frequently has landed less than its quota (Table 2). However, closing the fishery once the quota was met led to the development of a derby fishery, no matter how the season was manipulated. The derby fishery should disappear with the introduction in 2007 of the red snapper IFQ program.
+Holding the recreational fishery to their allocation of 49% of TAC has been problematic. Prior to 1995 when this sector was given an allocation rather than held to a quota, landings in some years nearly doubled the fishery's allocation (e.g., 1993; Table 3). However, with the quota and the ability of NOAA Fisheries Service to close the fishery once the quota is projected to be filled, landings have stayed near or below the sector's quota by modifying fishing season length in conjunction with size and bag limits.
+Managing red snapper bycatch in the shrimp trawl fishery has also been problematic. While BRDs have been introduced into the fishery to reduce bycatch, their performance has not met expectations. Other methods to reduce bycatch such as seasonal or area closures are thought to be impracticable because shrimp and juvenile red snapper share the same areas in high concentrations throughout the year. However, this limitation may change as the spatial-temporal concentrations of juvenile red snapper are better understood through investigations like those of Diamond and Wang (2006). Additionally, red snapper bycatch may be reduced as shrimp trawl effort declines from factors such as lower-priced imports (Haby et al. 2003), higher fuel costs, and fleet damage from hurricanes.
+The most recent stock assessment (SE-DAR 2005b) included new information on red snapper and the shrimp trawl fishery testing previous views of the fisheries including a greater influence of discard mortality from the directed fishery and the effectiveness of BRDs. Streicheck and Hood (2007, this volume) discuss these challenges, as well as challenges in balancing competing interests from the various fishing sectors, environmental organizations, and mandates from within the Magnuson-Stevenson Act.
+Acknowledgments
+We would like to thank David Nieland and two anonymous reviewers for providing constructive input during the development of this manuscript.
+References
+Camber, C. I. 1955. A survey of the red snapper fishery of the Gulf of Mexico, with special reference to the Campeche Banks. Florida State Board of Conservation, Technical Series No 12:1-64.
+Carpenter, J. S. 1965. A review of the Gulf of Mexico red snapper fishery. U.S. Fish and Wildlife Service Circular 208.
+Red Snapper Management History	283	
+Diamond, S. L., and Y. Wang. 2006. Analysis of the relationship between shrimp and juvenile red snapper distributions on large temporal and spatial scales. Meeting Abstracts, 2006 Spring Meeting, Southern Division of American Fisheries Society, San Antonio, Texas.	TAMU-SG-03-701. Texas A&M University, College Station, Texas.
+Foster, D. 2005. Funnel BRD performance. Report for the Gulf of Mexico Fishery Management Council. Harvesting Systems and Engineering Division, National Marine Fisheries Service, Pascagoula Laboratory, Pascagoula, Mississippi.	Holiman, S. G. 1995. Reef fish economic assessment for the Gulf of Mexico recreational fishery. National Marine Fisheries Service, Southeast Regional Office, St. Petersburg, Florida.
+Gulf of Mexico Fishery Management Council. 1981. Environmental impact statement and fishery management plan for the reef fish resources of the Gulf of Mexico. Gulf of Mexico Fishery Management Council, Tampa, Florida.	Nichols, S. No date. An update on the overall effectiveness of BRDs. Report prepared for the gulf of Mexico Fisheries Management Council, Tampa, Florida.
+Goodyear, C. P. 1988. Recent trends in the red snapper fishery of the Gulf of Mexico. NOAA Fisheries Service, SEFSC, Miami Laboratory, CRD 87/88-16.	Nichols, S. 1990. The spatial and temporal distribution of the bycatch of red snapper by the shrimp fishery in the offshore waters of the U.S. Gulf of Mexico. Mississippi Laboratories. Pascagoula, Mississippi.
+Goodyear, C. P. 1992. Red snapper in U. S. waters of the Gulf of Mexico. National Oceanic and Atmospheric Administration. NOAA Fisheries Service, SEFSC contribution MIA-91/92-70.	NOAA Fisheries Service. 1995. Cooperative research program addressing finfish bycatch in the Gulf of Mexico and South Atlantic shrimp fisheries: a report to congress. National Marine Fisheries Service, St. Petersburg, Florida.
+Goodyear, C. P. 1994. Red snapper in U. S. waters of the Gulf of Mexico. National Marine Fisheries Service, SEFSC contribution MIA-93/94--63.	Powers, J. E., C. M. Legault, and R. E. Crabtree. 2000. Updated projections for Gulf of Mexico red snapper. National Marine Fisheries Service, Southeast Fisheries Science Center, St. Petersburg, Florida.
+Goodyear, C. P. 1995. Red snapper in U.S. waters of the Gulf of Mexico, National Marine Fisheries Service, Southeast Fisheries Science Center, Miami Laboratory, Report MIA-95/96-05. Miami, Florida.	Restrepo, V. R., G. G. Thompson, P. M. Mace, W. L. Gabriel, L. L. Low, A. D. MacCall, R. D. Methot, J. E. Powers, B. L. Taylor, P. R. Wade, and J. F. Witzig. 1998. Technical guidance on the use of precautionary approaches to implementing national standard 1 of the Magnuson-Stevens Fishery Conservation and Management Act. NOAA Technical Memorandum, NMFS-F/SPO-31.
+Goodyear, C. P. 1996. An update of red snapper in U.S. waters of the Gulf of Mexico. National Marine Fisheries Service, Southeast Fisheries Science Center, Miami Laboratory Contribution MIA-95/96-60. Miami, Florida.	RFSAP. 1992. Final report of the Reef Fish Stock Assessment Panel. Gulf of Mexico Fishery Management Council. Tampa, Florida.
+Goodyear, C.P. 1997. An evaluation of the minimum reduction in the 1997 red snapper shrimp bycatch mortality rate consistent with the 2019 recovery target. April 10, 1997, report prepared for the Gulf of Fisheries Management Council, Tampa, Florida.	RFSAP. 1994. 1994 report of the Reef Fish Stock Assessment Panel. Gulf of Mexico Fishery Management Council. Tampa, Florida.
+Goodyear, C. P., and P. Phares. 1990. Status of red snapper stocks of the Gulf of Mexico-report for 1990. National Marine Fisheries Service, Southeast Fisheries Science Center CRD 89/90-05, Miami, Florida.	RFSAP. 1995. 1995 report of the Reef Fish Stock Assessment Panel. Gulf of Mexico Fishery Management Council. Tampa, Florida.
+Haby, M. G., R. J. Miget, L. L. Falconer, and G. L Graham. 2003. A review of current conditions in the Texas shrimp industry, an examination of contributing factors, and suggestions for remaining competitive in the global shrimp market. Texas Cooperative Extension Sea Grant College Program,	RFSAP. 1997. October 1997 report of the Reef Fish Stock Assessment Panel. Gulf of Mexico Fishery Management Council. Tampa, Florida.
+	RFSAP. 1999. September 1999 Report of the Reef Fish Stock Assessment Panel. Gulf of Mexico Fishery Management Council. Tampa, Florida.
+	Schirripa, M. J. 1998. Status of the red snapper in U.S. waters of the Gulf of Mexico: updated through 1997. NOAAINOAA Fisheries Service Sustainable Fisheries Division Contribution, SFD-97/9830.
+	Schirripa, M. J., and C. M. Legault. 1997. Status of the red snapper in U.S. waters of the Gulf of
+284	Hood et al.
+Mexico: updated through 1996. Southeast Fisheries Science Center, Miami Laboratory, Miami MIAC97/98-05.
+Schirripa, M.J., and C.M. Legault. 1999. Status of the red snapper in U.S. waters of the Gulf of Mexico: updated through 1998. National Marine Fisheries Service, Southeast Fisheries Science Center. Sustainable Fisheries Division contribution SFD99/00-75. Miami Laboratory, Miami, Florida.
+SEDAR (Southeast Data, Assessment, and Review). 2005a. Stock assessment report of SEDAR 7. Southeast Fisheries Science Center, Miami Laboratory, Miami, Florida.
+SEDAR (Southeast Data, Assessment, and Review). 2005b. Gulf of Mexico red snapper consensus summary report. Southeast Fisheries Science Center, Miami Laboratory, Miami, Florida.
+Strelcheck, A. J., and P. B. Hood. 2007. Rebuilding red snapper: recent actions and future management challenges. Pages 385-396 in W. F. Patterson, III, J. H. Cowan, Jr., G. R. Fitzhugh, and D. L. Nieland, editors. Red Snapper Ecology and Fisheries in the
+U.S. Gulf of Mexico. American Fisheries Society, Symposium 60, Bethesda, Maryland.
+Wallace, R. K., and K. M. Fletcher. 2000. Understanding Fisheries Management: A Manual for Understanding the Federal Fisheries Management Process. Mississippi-Alabama Sea Grant Consortium Publication MASGP-00-005.
+Waters, J. R. 2001. Quota management in the commercial red snapper fishery. Marine Resource Economics 16:65-78.
+Waters, J. R. 2003. Review of the U.S. commercial red snapper fishery in the Gulf of Mexico. SEFSC, Social Science Research Group. Working Paper Series SEFSC-SSRG-02.
+Waters, J. R., and W. Antozzi. 1997. Implications of different types of derbies in the Gulf of Mexico red snapper fishery. NMFS, SEFSC, Miami, Florida.
+Watson, J., D. Foster, S. Nichols, A. Shah, E. Scott-Denton, and J. Nance. 1999. The development of bycatch reduction technology in the southeastern United States shrimp fishery. Marine Technology Society Journal 33(2):55-56.
