@@ -1,10 +1,54 @@
 library(tidyverse); library(rstanarm); library(broom.mixed)
 library(ggplot2);library(prismatic);library(viridis)
-
+library(performance)
 load('out/dayspecies.RData')
 rhatsimp <- data.frame(rhat)
 DayMCMC <- mcmcout
+
+outac <- get("outatlantic cod")
+outbsb <- get("outblack sea bass")
+outgaj <- get("outgreater amberjack")
+outrg <- get("outred grouper")
+outrp <- get("outred porgy")
+outrs <- get("outred snapper")
+outsm <- get("outspanish mackerel")
+outsf <- get("outsummer flounder")
+outwf <- get("outwinter flounder")
 load('out/nodayspecies.RData')
+outacro <- get("outatlantic croaker")
+outkm <- get("outking mackerel")
+outsoflo <- get("outsouthern flounder")
+load('out/bagspecies.RData')
+outsst <- get("outspotted seatrout")
+outsb <- get("outstriped bass")
+outrd <- get("outred drum")
+
+check_collinearity(outac)
+check_collinearity(outbsb)
+check_collinearity(outgaj)##flag
+check_collinearity(outhaddock)##flag
+check_collinearity(outrg)##flag
+check_collinearity(outrp)##flag
+check_collinearity(outrs)##flag
+check_collinearity(outscup)
+check_collinearity(outsm)
+check_collinearity(outsf)
+check_collinearity(outtautog)
+check_collinearity(outwf)
+
+
+check_collinearity(outacro)
+check_collinearity(outkm)
+check_collinearity(outsoflo)##flag
+check_collinearity(outsheepshead)##flag
+check_collinearity(outweakfish)
+
+
+check_collinearity(outbluefish)
+check_collinearity(outrd)
+check_collinearity(outsst)
+check_collinearity(outsb)
+
 rhatsave <-
     bind_rows(tibble(rhatsimp),
               data.frame(rhat)

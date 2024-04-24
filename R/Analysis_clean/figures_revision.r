@@ -1,20 +1,21 @@
 library(tidyverse); library(rstanarm); library(broom.mixed)
 library(ggplot2);library(prismatic);library(viridis)
 
-load('out/dayspecies.RData')
+load('outrevision/dayspecies.RData')
 rhatsimp <- data.frame(rhat)
 DayMCMC <- mcmcout
-load('out/nodayspecies.RData')
-rhatsave <-
-    bind_rows(tibble(rhatsimp),
-              data.frame(rhat)
-              )
-mcmcsave <-
-    bind_rows(tibble(DayMCMC), tibble(mcmcout) )
-load('out/bagspecies.RData')
-rhat <- bind_rows(rhatsave, data.frame(rhat))
-colnames(rhat) <- c('species', 'rhatmin', 'rhatmax')
-mcmc <- bind_rows(mcmcsave, tibble(mcmcout))
+ls()
+mcmc <- DayMCMC ##load('out/nodayspecies.RData')
+## rhatsave <-
+##     bind_rows(tibble(rhatsimp),
+##               data.frame(rhat)
+##               )
+## mcmcsave <-
+##     bind_rows(tibble(DayMCMC), tibble(mcmcout) )
+## load('out/bagspecies.RData')
+## rhat <- bind_rows(rhatsave, data.frame(rhat))
+## colnames(rhat) <- c('species', 'rhatmin', 'rhatmax')
+## mcmc <- bind_rows(mcmcsave, tibble(mcmcout))
 
 
 table(rhat$species)
@@ -24,7 +25,7 @@ table(mcmc$species)
 ##max(c(max(rhat[, 2:3]), max(rhatsimp[, 2:3]), max(NoDayRhat[, 2:3])))
 table(mcmc$term)
 
-
+unique(mcmc$species)
 species_estimates <-
     mcmc %>%
     filter(term != '(Intercept)',
@@ -58,11 +59,11 @@ species_estimates <-
                group_by(species) %>%
                complete(term) %>%
     ungroup() %>%
-    mutate(color =
-               rep(c(rep("#440154AF", 1),
-                     rep("#21908CAF", 3),
-                     rep("#FDE725AF", 7),
-                     rep("#440154AF", 4)), 21)) %>%
+    ## mutate(color =
+    ##            rep(c(rep("#440154AF", 1),
+    ##                  rep("#21908CAF", 3),
+    ##                  rep("#FDE725AF", 7),
+    ##                  rep("#440154AF", 4)), 21)) %>%
     mutate(species = str_replace(species, 'atlantic cod', 'Gadus morhua'),
            species = str_replace(species, 'atlantic croaker',
                                  'Micropogonias undulatus'),
@@ -150,12 +151,12 @@ species_estimates <-
            estimate = 0,
            conf.low = 0,
            conf.high = 0,
-           non0 = 0,
-           color =
-               rep(c(rep("#440154AF", 1),
-                     rep("#21908CAF", 3),
-                     rep("#FDE725AF", 7),
-                     rep("#440154AF", 4)), 3)
+           non0 = 0#,
+   ##        color =
+   ##            rep(c(rep("#440154AF", 1),
+   ##                  rep("#21908CAF", 3),
+   ##                  rep("#FDE725AF", 7),
+   ##                  rep("#440154AF", 4)), 3)
            )
            ) %>%
     mutate(term = factor(term,
@@ -197,11 +198,13 @@ species_estimates2 <-
                                      "Fuel Price (-)", "HH Age (NA)", "HH Income (+)",
                                      "HH Size (-)", "Population (-)", "State GDP (-)",
                                      "Unemployment (-)", "Precipitation (+)", "Temperature (+)",
-                                     "Wind Speed (-)", "Bag Above Max (+)"))))  %>%
-    mutate(z = rep(c(rep('reg', 1),
-                     rep('env', 3),
-                     rep('se',  7),
-                     rep('reg', 4)), 24))
+                                     "Wind Speed (-)", "Bag Above Max (+)"))))
+
+## %>%
+##     mutate(z = rep(c(rep('reg', 1),
+##                      rep('env', 3),
+##                      rep('se',  7),
+##                      rep('reg', 4)), 24))
 
 
 i <- 0
@@ -210,14 +213,19 @@ for(groups in group_splits){
     sp <- species_estimates2 %>%
         filter(species %in% groups)
     p <-
-    sp %>% ggplot(aes(fill = color)) +
+
+    species_estimates2 %>%
+    ggplot(aes()) +
     geom_point(aes(x = estimate, y = term, colour = non0)) +
     scale_colour_manual(values = setNames(c('black', 'grey70'),
                                           c(TRUE, FALSE))) +
-    facet_wrap(.~species, scales = 'free_x', ncol = 3, nrow = 4)  +
+    facet_wrap(.~species, scales = 'free_x') + ##, ncol = 3, nrow = 4)  +
     geom_linerange(aes(x = estimate, y = term,
                        xmin = conf.low, xmax = conf.high,
-                       color = non0)) +
+                       color = non0))
+
+
+    +
     ## geom_rect(aes(ymin = ystart,
     ##               ymax = yend,
     ##               xmin = -Inf,
@@ -244,6 +252,8 @@ for(groups in group_splits){
               axis.line = element_line(colour = "black")) +
         #coord_cartesian(expand = FALSE) +
         labs(x = "Estimate")
+
+
     ggsave(plot = p, filename = paste0('Figures/Figure_4', i, '.tiff'),
            width = 210, height = 200, units = "mm")#, dpi = 300)
 }

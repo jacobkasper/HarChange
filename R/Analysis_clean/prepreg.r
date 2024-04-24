@@ -40,6 +40,7 @@ updatewave <- function(df){
                       ifelse(Wave == "JULY/AUGUST",       4,
                       ifelse(Wave == "SEPTEMBER/OCTOBER", 5, 6))))))
 }
+
 csv_data_list <- lapply(csv_data_list, updatewave)
 har <- lapply(csv_data_list, function(df) {
   colnames(df) <- make.names(colnames(df))
@@ -134,6 +135,10 @@ directory_path <- "../../Fishery/Regs_by_Species/Regs"
 regs <- list.files(directory_path, pattern = "\\.csv$", full.names = TRUE)
 listnames <- sub("../../Fishery/Regs_by_Species/Regs/", "", regs)
 listnames <- sub(".csv", "", listnames)
+
+##problems(read_csv("../../Fishery/Regs_by_Species/Regs/Red_Drum_regs.csv") )
+##  mutate(area = as.character(area)))
+
 regs <- map(regs, read_csv)
 listnames <- sub('_regs', '', listnames)
 listnames <- sub('_Regs', '', listnames)
@@ -212,15 +217,18 @@ regs <-
     mutate(unique = paste0(year, wave, state, species, region)) %>%
     filter(unique %in% har$unique) %>%
     select(-unique)
+
 regdays <- ##calculate the number of days in each year/wave/state/species/region that regulations is open
     regs %>%
     filter(bag.limit > 0 | is.na(bag.limit))  %>%
     group_by(year, wave, state, species, region, rn = row_number()) %>%
-    do(data.frame(.,Date = seq(as.Date(.$start.date,format = '%m/%d/%Y'),
-                               as.Date(.$end.date,format = '%m/%d/%Y'),
+    do(data.frame(.,Date = seq(as.Date(dmy(.$start.date), "%d-%m-%Y"),
+                               as.Date(dmy(.$end.date), "%d-%m-%Y"),
                                '1 day'))) %>%
     group_by(year, wave, state, species, region) %>%
     summarize(numDays = n_distinct(Date))
+
+
 
 ########### aggregated bag limits for Atlantic Croaker
 table(regs$agg.bag.limit.wt, regs$state, useNA = 'always')
@@ -355,8 +363,8 @@ regs <-
         mutate(bag.above.max = ifelse(is.na(bag.above.max), 0, bag.above.max),
                region = as.character(region),
                state = as.numeric(state),
-               start.date = as.Date(start.date, '%m/%d/%Y'),
-               end.date   = as.Date(end.date,   '%m/%d/%Y'),
+               start.date = as.Date(dmy(.$start.date), "%d-%m-%Y"),
+               end.date   = as.Date(dmy(.$end.date),   '%d/%m/%Y'),
                reg.days   = as.numeric(difftime(end.date, start.date,
                                                 units = "days")) + 1) %>%
         ungroup() %>%
@@ -372,7 +380,7 @@ regs <-
                bag.limit = sum(bag.limit*reg.days, na.rm = TRUE)/sum(reg.days),
                bag.limit = ifelse(bag.limit == 0, NA, bag.limit),
                bag.above.max = sum(bag.above.max*reg.days, na.rm = TRUE)/sum(reg.days),
-               bag.above.max = ifelse(bag.above.max == 0, NA, bag.above.max)) %>%
+               bag.above.max = ifelse(bag.above.max == 0, NA, bag.above.max))        %>%
         group_by(species, state) %>%
         mutate(bag.limit = ifelse(is.na(bag.limit),
                                   2 * max(bag.limit, na.rm = TRUE), bag.limit),
@@ -385,6 +393,7 @@ regs <-
         group_by(year, wave, state, species, region) %>%
         distinct(), yr.wv) %>%
     ungroup()
+
 
 
 regs <-
@@ -404,3 +413,5 @@ regs <-
 harregs <-
     left_join(regs, har %>%
                     select(-unique))
+
+table(regdays$species)

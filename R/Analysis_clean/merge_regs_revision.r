@@ -146,18 +146,18 @@ observation  <-
     group_by(species) %>%
     mutate(bag.limit = standardize(bag.limit),
            min.size = standardize(min.size),
-           pr.wave = standardize(empirlogitTransform(pr.wave, min(pr.wave))),
-           pr.year = standardize(empirlogitTransform(pr.year, min(pr.year))),
+           pr.wave = standardize(pr.wave), ##empirlogitTransform(pr.wave, min(pr.wave))),
+           pr.year = standardize(pr.year), ##empirlogitTransform(pr.year, min(pr.year))),
            gdp        = standardize(gdp),
-           med.income = standardize((med.income)),
-           pop.density = standardize((pop.density)),
+           med.income = standardize(med.income),
+           pop.density = standardize(pop.density),
            med.age = standardize(med.age),
            med.house.size = standardize(med.house.size),
-           unemp.rt = standardize(logitTransform(unemp.rt)),
+           unemp.rt = standardize(unemp.rt), ##logitTransform(unemp.rt)),
            price = standardize(price),
            precip = standardize(precip),
-           temp = standardize((temp)),
-           wind = standardize((wind)))
+           temp = standardize(temp),
+           wind = standardize(wind))
 
 observation <-
   observation %>%

@@ -7,7 +7,7 @@ library(sf); library(tidyverse)
 library(lubridate)
 ##citation("climateR")
 ##citation("AOI")
-
+setwd('C:/Users/jacobmk/OneDrive - Public Administration/Chapter3/HarChange/R/Environment')
 ##read in coastal counties from the us
 cc  <- read.csv("Data/csv/coastline-counties-list.csv")
 ##coastal states
